@@ -56,19 +56,21 @@ boton.pack()
 
 
 #Cargar personas desde el disco duro
-carga = open("jugadores.json",'r')
-cargado = carga.read()
-cargadolista = json.loads(cargado)
-for elemento in cargadolista:
-    persona = Persona()
-    persona.__dict__.update(elemento)
-    personas.append(persona)
-    
-    
+try:
+    carga = open("jugadores.json",'r')
+    cargado = carga.read()
+    cargadolista = json.loads(cargado)
+    for elemento in cargadolista:
+        persona = Persona()
+        persona.__dict__.update(elemento)
+        personas.append(persona)
+except:
+    print("Error")
 
 #En la colección introduzco instancias de personas en el caso de que no existan
+print(len(personas))
 if len(personas) == 0:
-    numeropersonas = len(personas)
+    numeropersonas = 1
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
