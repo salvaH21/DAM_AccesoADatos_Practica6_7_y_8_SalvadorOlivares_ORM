@@ -4,8 +4,6 @@ import math
 import json
 
 personas = []
-numeropersonas = 5
-
 
 class Persona:
     def __init__(self):
@@ -32,7 +30,8 @@ class Persona:
         self.posy += math.sin(self.direccion) 
     def colisiona(self):
         if self.posx < 0 or self.posx >1024 or self.posy < 0 or self.posy >1024:
-            self.direccion += math.pi
+            self.direccion += math.atan2(self.posy,self.posx)
+
 
 def guardarPersonas():
     print("guardo a los jugadores")
@@ -40,9 +39,8 @@ def guardarPersonas():
     print(cadena)
     archivo = open("jugadores.json",'w')
     archivo.write(cadena)
-    
-        
-        
+   
+
 #Creo una ventana
 raiz = tk.Tk()
 
@@ -54,7 +52,6 @@ lienzo.pack()
 boton = tk.Button(raiz,text="Guarda",command=guardarPersonas)
 boton.pack()
 
-
 #Cargar personas desde el disco duro
 try:
     carga = open("jugadores.json",'r')
@@ -65,12 +62,12 @@ try:
         persona.__dict__.update(elemento)
         personas.append(persona)
 except:
-    print("Error")
+    print(math.pi)
 
 #En la colección introduzco instancias de personas en el caso de que no existan
 print(len(personas))
 if len(personas) == 0:
-    numeropersonas = 1
+    numeropersonas = 4
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
@@ -83,9 +80,10 @@ def bucle():
     #Muevo a cada persona de la colección
     for persona in personas:
         persona.mueve()
-    raiz.after(10,bucle)
+    raiz.after(1,bucle)
     
 #Ejecuto el bucle
 bucle()
 
 raiz.mainloop()
+
