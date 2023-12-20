@@ -1,6 +1,7 @@
 import tkinter as tk
 import random
 import math
+import json
 
 personas = []
 numeropersonas = 20
@@ -35,6 +36,8 @@ class Persona:
 
 def guardarPersonas():
     print("guardo a los jugadores")
+    cadena = json.dumps([vars(persona) for persona in personas])
+    print(cadena)
     
         
         
