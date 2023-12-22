@@ -12,7 +12,7 @@ class Persona:
         self.radio = valor(30,60)
         self.direccion = random.randint(0,360)
         self.color = colores()
-        self.velocidad = valor(1,10)
+        self.velocidad = valor(1,5)
         self.entidad = ""
     def dibuja(self):
         self.entidad = lienzo.create_oval(
@@ -80,7 +80,7 @@ except:
 #En la colección introduzco instancias de personas en el caso de que no existan
 print(len(personas))
 if len(personas) == 0:
-    numeropersonas = 8
+    numeropersonas = 2
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
