@@ -16,6 +16,10 @@ class Persona:
         self.color = colores()
         self.velocidad = valor(1,5)
         self.entidad = ""
+        self.energia = 100
+        self.descanso = 100
+        self.entidadenergia = ""
+        self.entidaddescanso = ""
     def dibuja(self):
         self.entidad = lienzo.create_oval(
             self.posx-self.radio/2,
@@ -23,12 +27,32 @@ class Persona:
             self.posx+self.radio/2,
             self.posy+self.radio/2,
             fill=self.color)
+        self.entidadenergia = lienzo.create_rectangle(
+            self.posx-self.radio/2,
+            self.posy-self.radio/2-10,
+            self.posx+self.radio/2,
+            self.posy-self.radio/2-8,
+            fill="green")
+        self.entidaddescanso = lienzo.create_rectangle(
+            self.posx-self.radio/2,
+            self.posy-self.radio/2-16,
+            self.posx+self.radio/2,
+            self.posy-self.radio/2-14,
+            fill="blue")
     def mueve(self):
         self.colisiona()
         desplazamientox = self.velocidad * math.cos(self.direccion)
         desplazamientoy = self.velocidad * math.sin(self.direccion)
         lienzo.move(
             self.entidad,
+            desplazamientox,
+            desplazamientoy)
+        lienzo.move(
+            self.entidadenergia,
+            desplazamientox,
+            desplazamientoy)
+        lienzo.move(
+            self.entidaddescanso,
             desplazamientox,
             desplazamientoy)
         self.posx += desplazamientox
@@ -53,6 +77,10 @@ def guardarPersonas():
     #Guardo los personajes en SQL
     conexion = sqlite3.connect("jugadores.sqlite3")
     cursor = conexion.cursor()
+    cursor.execute('''
+            DELETE FROM jugadores
+            ''')
+    conexion.commit()
     for persona in personas:
         cursor.execute('''
             INSERT INTO jugadores
@@ -89,9 +117,6 @@ try:
     cursor.execute('''
             SELECT *
             FROM jugadores
-            WHERE posx < 512
-            AND
-            posy <512
             ''')
     while True:
         fila = cursor.fetchone()
@@ -114,7 +139,7 @@ except:
 #En la colección introduzco instancias de personas en el caso de que no existan
 print(len(personas))
 if len(personas) == 0:
-    numeropersonas = 20
+    numeropersonas = 10
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
