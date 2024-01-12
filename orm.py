@@ -50,11 +50,6 @@ def valor(numero1,numero2):
 
 def guardarPersonas():
     print("guardo a los jugadores")
-    #Guardo archivo json
-    cadena = json.dumps([vars(persona) for persona in personas])
-    print(cadena)
-    archivo = open("jugadores.json",'w')
-    archivo.write(cadena)
     #Guardo los personajes en SQL
     conexion = sqlite3.connect("jugadores.sqlite3")
     cursor = conexion.cursor()
@@ -96,7 +91,19 @@ try:
         persona.__dict__.update(elemento)
         personas.append(persona)
 except:
-    print(math.pi)
+    print("error")
+
+#Cargar personas desde SQL
+conexion = sqlite3.connect("jugadores.sqlite3")
+cursor = conexion.cursor()
+
+cursor.execute("SELECT * FROM jugadores")
+while True:
+    fila = cursor.fetchone()
+    if fila is None:
+        break
+    print(fila)
+conexion.close()
 
 #En la colección introduzco instancias de personas en el caso de que no existan
 print(len(personas))
