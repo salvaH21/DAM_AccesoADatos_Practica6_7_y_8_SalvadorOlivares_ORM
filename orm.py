@@ -40,6 +40,10 @@ class Persona:
             self.posy-self.radio/2-14,
             fill="blue")
     def mueve(self):
+        if self.energia > 0:
+            self.energia -= 0.1
+        if self.descanso > 0:
+            self.descanso -= 0.1
         self.colisiona()
         desplazamientox = self.velocidad * math.cos(self.direccion)
         desplazamientoy = self.velocidad * math.sin(self.direccion)
@@ -47,14 +51,18 @@ class Persona:
             self.entidad,
             desplazamientox,
             desplazamientoy)
-        lienzo.move(
+        lienzo.coords(
             self.entidadenergia,
-            desplazamientox,
-            desplazamientoy)
-        lienzo.move(
+            self.posx - self.radio/2,
+            self.posy - self.radio/2 - 10,
+            self.posx + self.radio/2 - (100-self.energia),
+            self.posy - self.radio/2 - 8)
+        lienzo.coords(
             self.entidaddescanso,
-            desplazamientox,
-            desplazamientoy)
+            self.posx - self.radio/2,
+            self.posy - self.radio/2 - 16,
+            self.posx + self.radio/2 - (100-self.descanso),
+            self.posy - self.radio/2 - 14)
         self.posx += desplazamientox
         self.posy += desplazamientoy
         #self.direccion += random.uniform(-1, 1)
