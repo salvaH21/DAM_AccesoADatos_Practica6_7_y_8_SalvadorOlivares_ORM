@@ -51,17 +51,19 @@ class Persona:
             self.entidad,
             desplazamientox,
             desplazamientoy)
+        anchuraenergia = (self.energia/100)*self.radio
         lienzo.coords(
             self.entidadenergia,
             self.posx - self.radio/2,
             self.posy - self.radio/2 - 10,
-            self.posx + self.radio/2 - (100-self.energia),
+            self.posx - self.radio/2 + anchuraenergia,
             self.posy - self.radio/2 - 8)
+        anchuradescanso = (self.descanso/100)*self.radio
         lienzo.coords(
             self.entidaddescanso,
             self.posx - self.radio/2,
             self.posy - self.radio/2 - 16,
-            self.posx + self.radio/2 - (100-self.descanso),
+            self.posx - self.radio/2 + anchuradescanso,
             self.posy - self.radio/2 - 14)
         self.posx += desplazamientox
         self.posy += desplazamientoy
