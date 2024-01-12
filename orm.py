@@ -6,15 +6,22 @@ import sqlite3
 
 #Declaración de variables globales
 personas = []
+seleccionciudad = 'SELECT * FROM jugadores WHERE ciudad="madrid"'
+seleccionpelo = 'SELECT * FROM jugadores WHERE colorpelo="pelirrojo"'
+seleccionprofesion = 'SELECT * FROM jugadores WHERE profesion="docencia"'
 
 class Persona:
     def __init__(self):
         self.posx = random.randint(0,1024)
         self.posy = random.randint(0,1024)
-        self.radio = valor(30,60)
+        self.radio = 30
         self.direccion = random.randint(0,360)
         self.color = colores()
         self.velocidad = valor(1,5)
+        self.edad = valor(1,100)
+        self.ciudad = ciudad()
+        self.colorpelo = colorpelo()
+        self.profesion = profesion()
         self.entidad = ""
         self.energia = 100
         self.descanso = 100
@@ -78,6 +85,21 @@ def colores():
     colorazar = listacolores[random.randint(0,len(listacolores)-1)]
     return colorazar
 
+def colorpelo():
+    listacolores = ["moreno","rubio","pelirrojo","canoso","sin pelo"]
+    colorazar = listacolores[random.randint(0,len(listacolores)-1)]
+    return colorazar
+
+def profesion():
+    listaprofesiones = ["docencia","hosteleria","informatica","arquitectura","derecho","policia","medicina","enfermeria"]
+    profesionazar = listaprofesiones[random.randint(0,len(listaprofesiones)-1)]
+    return profesionazar
+
+def ciudad():
+    listaciudades = ["jaen","valencia","madrid","barcelona","bilbao","granada","almeria","santander"]
+    ciudadazar = listaciudades[random.randint(0,len(listaciudades)-1)]
+    return ciudadazar
+
 def valor(numero1,numero2):
     numero = random.randint(numero1,numero2)
     return numero
@@ -102,7 +124,15 @@ def guardarPersonas():
                 '''+str(persona.direccion)+''',
                 "'''+str(persona.color)+'''",
                 '''+str(persona.velocidad)+''',
-                "'''+str(persona.entidad)+'''"
+                '''+str(persona.edad)+''',
+                "'''+str(persona.ciudad)+'''",
+                "'''+str(persona.colorpelo)+'''",
+                "'''+str(persona.profesion)+'''",
+                "'''+str(persona.entidad)+'''",
+                '''+str(persona.energia)+''',
+                '''+str(persona.descanso)+''',
+                "'''+str(persona.entidadenergia)+'''",
+                "'''+str(persona.entidaddescanso)+'''"
             )
             ''')
     conexion.commit()
@@ -124,10 +154,7 @@ try:
     conexion = sqlite3.connect("jugadores.sqlite3")
     cursor = conexion.cursor()
 
-    cursor.execute('''
-            SELECT *
-            FROM jugadores
-            ''')
+    cursor.execute(seleccionpelo)
     while True:
         fila = cursor.fetchone()
         if fila is None:
@@ -140,16 +167,24 @@ try:
         persona.direccion = fila[4]
         persona.color = fila[5]
         persona.velocidad = fila[6]
-        persona.entidad = fila[7]
+        persona.edad = fila[7]
+        persona.ciudad = fila[8]
+        persona.colorpelo = fila[9]
+        persona.profesion = fila[10]
+        persona.entidad = fila[11]
+        persona.energia = fila[12]
+        persona.descanso = fila[13]
+        persona.entidadenergia = fila[14]
+        persona.entidaddescanso = fila[15]
         personas.append(persona)
     conexion.close()
-except:
-    print("error al leer base de datos")
+except Exception as e:
+    print("error al leer base de datos", str(e))
 
 #En la colección introduzco instancias de personas en el caso de que no existan
-print(len(personas))
-if len(personas) == 0:
-    numeropersonas = 10
+print("Personas encontradas: " + str(len(personas)))
+if not personas:
+    numeropersonas = 60
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
