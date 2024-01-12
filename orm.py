@@ -86,12 +86,18 @@ try:
     conexion = sqlite3.connect("jugadores.sqlite3")
     cursor = conexion.cursor()
 
-    cursor.execute("SELECT * FROM jugadores")
+    cursor.execute('''
+            SELECT *
+            FROM jugadores
+            WHERE posx < 512
+            AND
+            posy <512
+            ''')
     while True:
         fila = cursor.fetchone()
         if fila is None:
             break
-        #print(fila)
+        print(fila)
         persona = Persona()
         persona.posx = fila[1]
         persona.posy = fila[2]
