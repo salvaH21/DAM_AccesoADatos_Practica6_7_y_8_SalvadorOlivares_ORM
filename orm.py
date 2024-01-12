@@ -80,7 +80,7 @@ except:
 #En la colección introduzco instancias de personas en el caso de que no existan
 print(len(personas))
 if len(personas) == 0:
-    numeropersonas = 2
+    numeropersonas = 20
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
