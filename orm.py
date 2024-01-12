@@ -2,7 +2,9 @@ import tkinter as tk
 import random
 import math
 import json
+import sqlite3
 
+#Declaración de variables globales
 personas = []
 
 class Persona:
@@ -48,11 +50,30 @@ def valor(numero1,numero2):
 
 def guardarPersonas():
     print("guardo a los jugadores")
+    #Guardo archivo json
     cadena = json.dumps([vars(persona) for persona in personas])
     print(cadena)
     archivo = open("jugadores.json",'w')
     archivo.write(cadena)
-   
+    #Guardo los personajes en SQL
+    conexion = sqlite3.connect("jugadores.sqlite3")
+    cursor = conexion.cursor()
+    for persona in personas:
+        cursor.execute('''
+            INSERT INTO jugadores
+            VALUES (
+                NULL,
+                '''+str(persona.posx)+''',
+                '''+str(persona.posy)+''',
+                '''+str(persona.radio)+''',
+                '''+str(persona.direccion)+''',
+                "'''+str(persona.color)+'''",
+                '''+str(persona.velocidad)+''',
+                "'''+str(persona.entidad)+'''"
+            )
+            ''')
+    conexion.commit()
+    conexion.close()
 
 #Creo una ventana
 raiz = tk.Tk()
