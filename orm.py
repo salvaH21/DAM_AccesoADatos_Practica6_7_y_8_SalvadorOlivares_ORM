@@ -6,7 +6,8 @@ import sqlite3
 
 #Declaración de variables globales
 personas = []
-seleccionciudad = 'SELECT * FROM jugadores WHERE ciudad="madrid"'
+seleccioncolor = 'SELECT * FROM jugadores WHERE color="pink"'
+seleccionciudad = 'SELECT * FROM jugadores WHERE ciudad="jaen"'
 seleccionpelo = 'SELECT * FROM jugadores WHERE colorpelo="pelirrojo"'
 seleccionprofesion = 'SELECT * FROM jugadores WHERE profesion="docencia"'
 
@@ -154,12 +155,12 @@ try:
     conexion = sqlite3.connect("jugadores.sqlite3")
     cursor = conexion.cursor()
 
-    cursor.execute(seleccionpelo)
+    cursor.execute(seleccioncolor)
     while True:
         fila = cursor.fetchone()
         if fila is None:
             break
-        print(fila)
+        #print(fila)
         persona = Persona()
         persona.posx = fila[1]
         persona.posy = fila[2]
@@ -184,7 +185,7 @@ except Exception as e:
 #En la colección introduzco instancias de personas en el caso de que no existan
 print("Personas encontradas: " + str(len(personas)))
 if not personas:
-    numeropersonas = 60
+    numeropersonas = 100
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
