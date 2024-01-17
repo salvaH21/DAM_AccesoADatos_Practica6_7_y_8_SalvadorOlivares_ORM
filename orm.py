@@ -153,6 +153,9 @@ def guardarPersonas():
     cursor.execute('''
             DELETE FROM jugadores
             ''')
+    cursor.execute('''
+            DELETE FROM recogibles
+            ''')
     conexion.commit()
     for persona in personas:
         cursor.execute('''
@@ -231,6 +234,22 @@ boton.pack()
 ##        persona.entidadenergia = fila[14]
 ##        persona.entidaddescanso = fila[15]
 ##        personas.append(persona)
+##        
+##        cursor2 = conexion.cursor()
+##        cursor2.execute('''
+##            SELECT *
+##            FROM recogibles
+##            WHERE persona='''+persona.entidad+'''
+##            ''')
+##        while True:
+##            fila2 = cursor2.fetchone()
+##            if fila2 is None:
+##                break
+##            nuevorecogible = Recogible()
+##            nuevorecogible.posx = fila2[2]
+##            nuevorecogible.posy = fila2[3]
+##            nuevorecogible.color = fila2[4]
+##            persona.inventario.append(nuevorecogible)
 ##    conexion.close()
 ##except Exception as e:
 ##    print("error al leer base de datos", str(e))
@@ -238,7 +257,7 @@ boton.pack()
 #En la colección introduzco instancias de personas en el caso de que no existan
 print("Personas encontradas: " + str(len(personas)))
 if not personas:
-    numeropersonas = 60
+    numeropersonas = 30
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
