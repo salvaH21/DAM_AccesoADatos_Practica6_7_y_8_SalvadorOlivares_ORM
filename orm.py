@@ -11,7 +11,20 @@ seleccionciudad = 'SELECT * FROM jugadores WHERE ciudad="jaen"'
 seleccionpelo = 'SELECT * FROM jugadores WHERE colorpelo="pelirrojo"'
 seleccionprofesion = 'SELECT * FROM jugadores WHERE profesion="docencia"'
 
-class Persona:
+class Recogible():
+    def __init__(self):
+        self.posx = random.randint(0,1024)
+        self.posy = random.randint(0,1024)
+        self.color = colores()
+    def serializar(self):
+        recogible_serializado = {
+            "posx":self.posx,
+            "posy":self.posy,
+            "color":self.color,
+            }
+        return recogible_serializado
+
+class Persona():
     def __init__(self):
         self.posx = random.randint(0,1024)
         self.posy = random.randint(0,1024)
@@ -28,7 +41,9 @@ class Persona:
         self.descanso = 100
         self.entidadenergia = ""
         self.entidaddescanso = ""
-        self.inventario = [1,2,3,4]
+        self.inventario = []
+        for i in range(0,10):
+            self.inventario.append(Recogible())
     def dibuja(self):
         self.entidad = lienzo.create_oval(
             self.posx-self.radio/2,
@@ -80,6 +95,23 @@ class Persona:
     def colisiona(self):
         if self.posx < 0 or self.posx >1024 or self.posy < 0 or self.posy >1024:
             self.direccion += math.atan2(self.posy,self.posx)
+    def serializar(self):
+        persona_serializada = {
+            "posx":self.posx,
+            "posy":self.posy,
+            "radio":self.radio,
+            "direccion":self.direccion,
+            "color":self.color,
+            "velocidad":self.velocidad,
+            "edad":self.edad,
+            "ciudad":self.ciudad,
+            "colorpelo":self.colorpelo,
+            "profesion":self.profesion,
+            "energia":self.energia,
+            "descanso":self.descanso,
+            "inventario":[item.serializar() for item in self.inventario]
+            }
+        return persona_serializada
 
             
 def colores():
@@ -108,6 +140,13 @@ def valor(numero1,numero2):
 
 def guardarPersonas():
     print("guardo a los jugadores")
+    #Tambien guardo en json de momento
+    personas_serializadas = [persona.serializar() for persona in personas]
+##    cadena = json.dumps(personas_serializadas)
+##    archivo = open("jugadores.json",'w')
+##    archivo.write(cadena)
+    with open("jugadores.json","w") as archivo:
+        json.dump(personas_serializadas,archivo,indent=4)
     #Guardo los personajes en SQL
     conexion = sqlite3.connect("jugadores.sqlite3")
     cursor = conexion.cursor()
@@ -134,7 +173,8 @@ def guardarPersonas():
                 '''+str(persona.energia)+''',
                 '''+str(persona.descanso)+''',
                 "'''+str(persona.entidadenergia)+'''",
-                "'''+str(persona.entidaddescanso)+'''"
+                "'''+str(persona.entidaddescanso)+'''",
+                "'''+str(persona.inventario)+'''"
             )
             ''')
     conexion.commit()
@@ -152,41 +192,41 @@ boton = tk.Button(raiz,text="Guarda",command=guardarPersonas)
 boton.pack()
 
 #Cargar personas desde SQL
-try:
-    conexion = sqlite3.connect("jugadores.sqlite3")
-    cursor = conexion.cursor()
-
-    cursor.execute(seleccioncolor)
-    while True:
-        fila = cursor.fetchone()
-        if fila is None:
-            break
-        #print(fila)
-        persona = Persona()
-        persona.posx = fila[1]
-        persona.posy = fila[2]
-        persona.radio = fila[3]
-        persona.direccion = fila[4]
-        persona.color = fila[5]
-        persona.velocidad = fila[6]
-        persona.edad = fila[7]
-        persona.ciudad = fila[8]
-        persona.colorpelo = fila[9]
-        persona.profesion = fila[10]
-        persona.entidad = fila[11]
-        persona.energia = fila[12]
-        persona.descanso = fila[13]
-        persona.entidadenergia = fila[14]
-        persona.entidaddescanso = fila[15]
-        personas.append(persona)
-    conexion.close()
-except Exception as e:
-    print("error al leer base de datos", str(e))
+##try:
+##    conexion = sqlite3.connect("jugadores.sqlite3")
+##    cursor = conexion.cursor()
+##
+##    cursor.execute(seleccioncolor)
+##    while True:
+##        fila = cursor.fetchone()
+##        if fila is None:
+##            break
+##        #print(fila)
+##        persona = Persona()
+##        persona.posx = fila[1]
+##        persona.posy = fila[2]
+##        persona.radio = fila[3]
+##        persona.direccion = fila[4]
+##        persona.color = fila[5]
+##        persona.velocidad = fila[6]
+##        persona.edad = fila[7]
+##        persona.ciudad = fila[8]
+##        persona.colorpelo = fila[9]
+##        persona.profesion = fila[10]
+##        persona.entidad = fila[11]
+##        persona.energia = fila[12]
+##        persona.descanso = fila[13]
+##        persona.entidadenergia = fila[14]
+##        persona.entidaddescanso = fila[15]
+##        personas.append(persona)
+##    conexion.close()
+##except Exception as e:
+##    print("error al leer base de datos", str(e))
 
 #En la colección introduzco instancias de personas en el caso de que no existan
 print("Personas encontradas: " + str(len(personas)))
 if not personas:
-    numeropersonas = 100
+    numeropersonas = 60
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
