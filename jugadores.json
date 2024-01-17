@@ -1,3961 +1,3961 @@
 [
     {
-        "posx": 23.582122832101646,
-        "posy": 234.76050596940604,
+        "posx": 17.011512039028332,
+        "posy": 105.81777824594815,
         "radio": 30,
-        "direccion": 226.14420090618626,
-        "color": "red",
-        "velocidad": 3,
-        "edad": 100,
-        "ciudad": "bilbao",
-        "colorpelo": "rubio",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 180,
-                "posy": 304,
-                "color": "black"
-            },
-            {
-                "posx": 171,
-                "posy": 721,
-                "color": "green"
-            },
-            {
-                "posx": 383,
-                "posy": 859,
-                "color": "purple"
-            },
-            {
-                "posx": 524,
-                "posy": 930,
-                "color": "yellow"
-            },
-            {
-                "posx": 289,
-                "posy": 700,
-                "color": "yellow"
-            },
-            {
-                "posx": 814,
-                "posy": 732,
-                "color": "red"
-            },
-            {
-                "posx": 713,
-                "posy": 833,
-                "color": "orange"
-            },
-            {
-                "posx": 631,
-                "posy": 744,
-                "color": "pink"
-            },
-            {
-                "posx": 856,
-                "posy": 386,
-                "color": "red"
-            },
-            {
-                "posx": 580,
-                "posy": 423,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 270.5039259814242,
-        "posy": 861.0376501906588,
-        "radio": 30,
-        "direccion": 113.15152702894281,
-        "color": "yellow",
-        "velocidad": 5,
-        "edad": 58,
-        "ciudad": "valencia",
-        "colorpelo": "rubio",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 106,
-                "posy": 3,
-                "color": "black"
-            },
-            {
-                "posx": 1006,
-                "posy": 991,
-                "color": "red"
-            },
-            {
-                "posx": 415,
-                "posy": 25,
-                "color": "green"
-            },
-            {
-                "posx": 1005,
-                "posy": 188,
-                "color": "purple"
-            },
-            {
-                "posx": 699,
-                "posy": 820,
-                "color": "purple"
-            },
-            {
-                "posx": 216,
-                "posy": 630,
-                "color": "black"
-            },
-            {
-                "posx": 322,
-                "posy": 480,
-                "color": "yellow"
-            },
-            {
-                "posx": 575,
-                "posy": 656,
-                "color": "green"
-            },
-            {
-                "posx": 567,
-                "posy": 495,
-                "color": "pink"
-            },
-            {
-                "posx": 128,
-                "posy": 39,
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "posx": 581.7726079765885,
-        "posy": 89.56659062419591,
-        "radio": 30,
-        "direccion": 227.6169420675736,
+        "direccion": 349,
         "color": "yellow",
         "velocidad": 1,
-        "edad": 12,
-        "ciudad": "santander",
-        "colorpelo": "canoso",
-        "profesion": "docencia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 129,
-                "posy": 1004,
-                "color": "yellow"
-            },
-            {
-                "posx": 908,
-                "posy": 406,
-                "color": "black"
-            },
-            {
-                "posx": 261,
-                "posy": 507,
-                "color": "red"
-            },
-            {
-                "posx": 158,
-                "posy": 108,
-                "color": "orange"
-            },
-            {
-                "posx": 504,
-                "posy": 979,
-                "color": "pink"
-            },
-            {
-                "posx": 226,
-                "posy": 537,
-                "color": "red"
-            },
-            {
-                "posx": 60,
-                "posy": 291,
-                "color": "black"
-            },
-            {
-                "posx": 951,
-                "posy": 689,
-                "color": "green"
-            },
-            {
-                "posx": 207,
-                "posy": 182,
-                "color": "pink"
-            },
-            {
-                "posx": 610,
-                "posy": 467,
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "posx": 592.6786313381081,
-        "posy": 198.1402856655123,
-        "radio": 30,
-        "direccion": 55,
-        "color": "orange",
-        "velocidad": 3,
-        "edad": 57,
-        "ciudad": "granada",
-        "colorpelo": "canoso",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 134,
-                "posy": 734,
-                "color": "orange"
-            },
-            {
-                "posx": 824,
-                "posy": 382,
-                "color": "yellow"
-            },
-            {
-                "posx": 711,
-                "posy": 320,
-                "color": "orange"
-            },
-            {
-                "posx": 265,
-                "posy": 331,
-                "color": "purple"
-            },
-            {
-                "posx": 312,
-                "posy": 874,
-                "color": "green"
-            },
-            {
-                "posx": 446,
-                "posy": 164,
-                "color": "blue"
-            },
-            {
-                "posx": 362,
-                "posy": 186,
-                "color": "pink"
-            },
-            {
-                "posx": 703,
-                "posy": 232,
-                "color": "green"
-            },
-            {
-                "posx": 69,
-                "posy": 634,
-                "color": "red"
-            },
-            {
-                "posx": 555,
-                "posy": 834,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 284.4978695083347,
-        "posy": 600.3271581201182,
-        "radio": 30,
-        "direccion": 254,
-        "color": "purple",
-        "velocidad": 4,
-        "edad": 71,
-        "ciudad": "santander",
-        "colorpelo": "sin pelo",
-        "profesion": "docencia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 139,
-                "posy": 473,
-                "color": "green"
-            },
-            {
-                "posx": 35,
-                "posy": 15,
-                "color": "blue"
-            },
-            {
-                "posx": 835,
-                "posy": 34,
-                "color": "black"
-            },
-            {
-                "posx": 177,
-                "posy": 946,
-                "color": "black"
-            },
-            {
-                "posx": 190,
-                "posy": 364,
-                "color": "red"
-            },
-            {
-                "posx": 93,
-                "posy": 329,
-                "color": "orange"
-            },
-            {
-                "posx": 452,
-                "posy": 798,
-                "color": "yellow"
-            },
-            {
-                "posx": 344,
-                "posy": 771,
-                "color": "black"
-            },
-            {
-                "posx": 309,
-                "posy": 144,
-                "color": "yellow"
-            },
-            {
-                "posx": 773,
-                "posy": 68,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 520.8565304680934,
-        "posy": 675.7708956480528,
-        "radio": 30,
-        "direccion": 349.37193040394305,
-        "color": "green",
-        "velocidad": 5,
-        "edad": 23,
-        "ciudad": "almeria",
-        "colorpelo": "rubio",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 383,
-                "posy": 208,
-                "color": "blue"
-            },
-            {
-                "posx": 855,
-                "posy": 786,
-                "color": "purple"
-            },
-            {
-                "posx": 509,
-                "posy": 555,
-                "color": "purple"
-            },
-            {
-                "posx": 468,
-                "posy": 48,
-                "color": "blue"
-            },
-            {
-                "posx": 657,
-                "posy": 581,
-                "color": "green"
-            },
-            {
-                "posx": 800,
-                "posy": 241,
-                "color": "orange"
-            },
-            {
-                "posx": 691,
-                "posy": 515,
-                "color": "orange"
-            },
-            {
-                "posx": 971,
-                "posy": 281,
-                "color": "black"
-            },
-            {
-                "posx": 498,
-                "posy": 786,
-                "color": "pink"
-            },
-            {
-                "posx": 749,
-                "posy": 351,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 87.78851823222271,
-        "posy": 1016.0912504755423,
-        "radio": 30,
-        "direccion": 229,
-        "color": "black",
-        "velocidad": 4,
-        "edad": 25,
-        "ciudad": "valencia",
-        "colorpelo": "canoso",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 192,
-                "posy": 575,
-                "color": "pink"
-            },
-            {
-                "posx": 486,
-                "posy": 126,
-                "color": "orange"
-            },
-            {
-                "posx": 904,
-                "posy": 677,
-                "color": "pink"
-            },
-            {
-                "posx": 170,
-                "posy": 562,
-                "color": "black"
-            },
-            {
-                "posx": 699,
-                "posy": 800,
-                "color": "orange"
-            },
-            {
-                "posx": 711,
-                "posy": 1010,
-                "color": "yellow"
-            },
-            {
-                "posx": 51,
-                "posy": 50,
-                "color": "black"
-            },
-            {
-                "posx": 835,
-                "posy": 719,
-                "color": "blue"
-            },
-            {
-                "posx": 558,
-                "posy": 287,
-                "color": "red"
-            },
-            {
-                "posx": 601,
-                "posy": 289,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 1014.1990260678955,
-        "posy": -145.65225211248162,
-        "radio": 30,
-        "direccion": 41.074283998501386,
-        "color": "black",
-        "velocidad": 5,
-        "edad": 64,
-        "ciudad": "granada",
-        "colorpelo": "moreno",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 236,
-                "posy": 171,
-                "color": "purple"
-            },
-            {
-                "posx": 898,
-                "posy": 994,
-                "color": "yellow"
-            },
-            {
-                "posx": 999,
-                "posy": 238,
-                "color": "green"
-            },
-            {
-                "posx": 1007,
-                "posy": 879,
-                "color": "orange"
-            },
-            {
-                "posx": 335,
-                "posy": 76,
-                "color": "red"
-            },
-            {
-                "posx": 389,
-                "posy": 667,
-                "color": "yellow"
-            },
-            {
-                "posx": 255,
-                "posy": 163,
-                "color": "blue"
-            },
-            {
-                "posx": 700,
-                "posy": 294,
-                "color": "black"
-            },
-            {
-                "posx": 102,
-                "posy": 901,
-                "color": "black"
-            },
-            {
-                "posx": 652,
-                "posy": 364,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 977.9197058324019,
-        "posy": 148.56616814164403,
-        "radio": 30,
-        "direccion": 60.70369439414732,
-        "color": "pink",
-        "velocidad": 5,
-        "edad": 61,
-        "ciudad": "almeria",
-        "colorpelo": "moreno",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 482,
-                "posy": 983,
-                "color": "purple"
-            },
-            {
-                "posx": 25,
-                "posy": 550,
-                "color": "blue"
-            },
-            {
-                "posx": 539,
-                "posy": 669,
-                "color": "red"
-            },
-            {
-                "posx": 466,
-                "posy": 616,
-                "color": "purple"
-            },
-            {
-                "posx": 126,
-                "posy": 478,
-                "color": "black"
-            },
-            {
-                "posx": 845,
-                "posy": 663,
-                "color": "orange"
-            },
-            {
-                "posx": 289,
-                "posy": 70,
-                "color": "purple"
-            },
-            {
-                "posx": 959,
-                "posy": 602,
-                "color": "green"
-            },
-            {
-                "posx": 455,
-                "posy": 252,
-                "color": "black"
-            },
-            {
-                "posx": 443,
-                "posy": 1014,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 733.9777061499356,
-        "posy": 658.9454718167492,
-        "radio": 30,
-        "direccion": 333,
-        "color": "yellow",
-        "velocidad": 3,
-        "edad": 44,
-        "ciudad": "santander",
-        "colorpelo": "moreno",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 176,
-                "posy": 372,
-                "color": "blue"
-            },
-            {
-                "posx": 394,
-                "posy": 513,
-                "color": "blue"
-            },
-            {
-                "posx": 837,
-                "posy": 530,
-                "color": "orange"
-            },
-            {
-                "posx": 996,
-                "posy": 486,
-                "color": "purple"
-            },
-            {
-                "posx": 109,
-                "posy": 872,
-                "color": "yellow"
-            },
-            {
-                "posx": 169,
-                "posy": 866,
-                "color": "pink"
-            },
-            {
-                "posx": 803,
-                "posy": 710,
-                "color": "black"
-            },
-            {
-                "posx": 340,
-                "posy": 110,
-                "color": "pink"
-            },
-            {
-                "posx": 77,
-                "posy": 89,
-                "color": "red"
-            },
-            {
-                "posx": 941,
-                "posy": 342,
-                "color": "black"
-            }
-        ]
-    },
-    {
-        "posx": 235.5774957517803,
-        "posy": 531.5354888338879,
-        "radio": 30,
-        "direccion": 92.97915198965448,
-        "color": "purple",
-        "velocidad": 3,
-        "edad": 15,
-        "ciudad": "almeria",
-        "colorpelo": "sin pelo",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 407,
-                "posy": 592,
-                "color": "blue"
-            },
-            {
-                "posx": 674,
-                "posy": 609,
-                "color": "red"
-            },
-            {
-                "posx": 701,
-                "posy": 673,
-                "color": "orange"
-            },
-            {
-                "posx": 658,
-                "posy": 179,
-                "color": "pink"
-            },
-            {
-                "posx": 496,
-                "posy": 671,
-                "color": "purple"
-            },
-            {
-                "posx": 722,
-                "posy": 960,
-                "color": "blue"
-            },
-            {
-                "posx": 4,
-                "posy": 369,
-                "color": "orange"
-            },
-            {
-                "posx": 577,
-                "posy": 0,
-                "color": "red"
-            },
-            {
-                "posx": 396,
-                "posy": 279,
-                "color": "black"
-            },
-            {
-                "posx": 450,
-                "posy": 672,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 851.3871908185747,
-        "posy": 786.7365562345351,
-        "radio": 30,
-        "direccion": 73,
-        "color": "blue",
-        "velocidad": 1,
-        "edad": 10,
-        "ciudad": "granada",
-        "colorpelo": "canoso",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 876,
-                "posy": 677,
-                "color": "red"
-            },
-            {
-                "posx": 895,
-                "posy": 283,
-                "color": "blue"
-            },
-            {
-                "posx": 302,
-                "posy": 679,
-                "color": "green"
-            },
-            {
-                "posx": 428,
-                "posy": 977,
-                "color": "red"
-            },
-            {
-                "posx": 831,
-                "posy": 929,
-                "color": "purple"
-            },
-            {
-                "posx": 582,
-                "posy": 794,
-                "color": "blue"
-            },
-            {
-                "posx": 967,
-                "posy": 645,
-                "color": "blue"
-            },
-            {
-                "posx": 715,
-                "posy": 628,
-                "color": "purple"
-            },
-            {
-                "posx": 925,
-                "posy": 754,
-                "color": "purple"
-            },
-            {
-                "posx": 925,
-                "posy": 563,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 851.8354371550791,
-        "posy": 751.9632656522527,
-        "radio": 30,
-        "direccion": 182,
-        "color": "red",
-        "velocidad": 4,
-        "edad": 41,
-        "ciudad": "barcelona",
-        "colorpelo": "moreno",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 866,
-                "posy": 557,
-                "color": "blue"
-            },
-            {
-                "posx": 362,
-                "posy": 700,
-                "color": "purple"
-            },
-            {
-                "posx": 45,
-                "posy": 18,
-                "color": "red"
-            },
-            {
-                "posx": 150,
-                "posy": 672,
-                "color": "purple"
-            },
-            {
-                "posx": 961,
-                "posy": 866,
-                "color": "blue"
-            },
-            {
-                "posx": 930,
-                "posy": 952,
-                "color": "purple"
-            },
-            {
-                "posx": 799,
-                "posy": 122,
-                "color": "blue"
-            },
-            {
-                "posx": 521,
-                "posy": 114,
-                "color": "orange"
-            },
-            {
-                "posx": 791,
-                "posy": 813,
-                "color": "green"
-            },
-            {
-                "posx": 981,
-                "posy": 816,
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "posx": 430.88026620248064,
-        "posy": 962.0432663542747,
-        "radio": 30,
-        "direccion": 271,
-        "color": "orange",
-        "velocidad": 1,
-        "edad": 4,
-        "ciudad": "bilbao",
-        "colorpelo": "rubio",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 646,
-                "posy": 56,
-                "color": "pink"
-            },
-            {
-                "posx": 313,
-                "posy": 765,
-                "color": "yellow"
-            },
-            {
-                "posx": 815,
-                "posy": 641,
-                "color": "black"
-            },
-            {
-                "posx": 581,
-                "posy": 865,
-                "color": "pink"
-            },
-            {
-                "posx": 537,
-                "posy": 839,
-                "color": "purple"
-            },
-            {
-                "posx": 127,
-                "posy": 830,
-                "color": "purple"
-            },
-            {
-                "posx": 414,
-                "posy": 428,
-                "color": "orange"
-            },
-            {
-                "posx": 329,
-                "posy": 1015,
-                "color": "purple"
-            },
-            {
-                "posx": 519,
-                "posy": 800,
-                "color": "blue"
-            },
-            {
-                "posx": 991,
-                "posy": 205,
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "posx": 142.71830873784617,
-        "posy": 1.4253588512694702,
-        "radio": 30,
-        "direccion": 325,
-        "color": "red",
-        "velocidad": 5,
-        "edad": 97,
-        "ciudad": "madrid",
-        "colorpelo": "moreno",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 882,
-                "posy": 277,
-                "color": "black"
-            },
-            {
-                "posx": 660,
-                "posy": 595,
-                "color": "red"
-            },
-            {
-                "posx": 162,
-                "posy": 720,
-                "color": "black"
-            },
-            {
-                "posx": 602,
-                "posy": 312,
-                "color": "blue"
-            },
-            {
-                "posx": 129,
-                "posy": 27,
-                "color": "blue"
-            },
-            {
-                "posx": 934,
-                "posy": 505,
-                "color": "red"
-            },
-            {
-                "posx": 360,
-                "posy": 510,
-                "color": "orange"
-            },
-            {
-                "posx": 700,
-                "posy": 427,
-                "color": "black"
-            },
-            {
-                "posx": 640,
-                "posy": 392,
-                "color": "black"
-            },
-            {
-                "posx": 187,
-                "posy": 391,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 992.6831388793262,
-        "posy": 648.5952631710719,
-        "radio": 30,
-        "direccion": 259.4940361437447,
-        "color": "black",
-        "velocidad": 1,
-        "edad": 58,
-        "ciudad": "granada",
-        "colorpelo": "canoso",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 687,
-                "posy": 190,
-                "color": "purple"
-            },
-            {
-                "posx": 175,
-                "posy": 181,
-                "color": "green"
-            },
-            {
-                "posx": 577,
-                "posy": 802,
-                "color": "blue"
-            },
-            {
-                "posx": 811,
-                "posy": 309,
-                "color": "yellow"
-            },
-            {
-                "posx": 204,
-                "posy": 752,
-                "color": "yellow"
-            },
-            {
-                "posx": 856,
-                "posy": 256,
-                "color": "blue"
-            },
-            {
-                "posx": 629,
-                "posy": 205,
-                "color": "black"
-            },
-            {
-                "posx": 116,
-                "posy": 149,
-                "color": "red"
-            },
-            {
-                "posx": 120,
-                "posy": 344,
-                "color": "orange"
-            },
-            {
-                "posx": 410,
-                "posy": 733,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 657.0707260812521,
-        "posy": 542.2163597520472,
-        "radio": 30,
-        "direccion": 308,
-        "color": "orange",
-        "velocidad": 2,
-        "edad": 90,
-        "ciudad": "barcelona",
-        "colorpelo": "rubio",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 509,
-                "posy": 31,
-                "color": "pink"
-            },
-            {
-                "posx": 251,
-                "posy": 317,
-                "color": "blue"
-            },
-            {
-                "posx": 399,
-                "posy": 361,
-                "color": "green"
-            },
-            {
-                "posx": 50,
-                "posy": 428,
-                "color": "black"
-            },
-            {
-                "posx": 843,
-                "posy": 506,
-                "color": "purple"
-            },
-            {
-                "posx": 59,
-                "posy": 622,
-                "color": "green"
-            },
-            {
-                "posx": 244,
-                "posy": 229,
-                "color": "pink"
-            },
-            {
-                "posx": 516,
-                "posy": 238,
-                "color": "black"
-            },
-            {
-                "posx": 591,
-                "posy": 440,
-                "color": "blue"
-            },
-            {
-                "posx": 696,
-                "posy": 404,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 319.3895730750616,
-        "posy": -20.191951011542564,
-        "radio": 30,
-        "direccion": 204.19392570678409,
-        "color": "pink",
-        "velocidad": 2,
-        "edad": 44,
-        "ciudad": "almeria",
-        "colorpelo": "pelirrojo",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 939,
-                "posy": 88,
-                "color": "red"
-            },
-            {
-                "posx": 990,
-                "posy": 577,
-                "color": "blue"
-            },
-            {
-                "posx": 863,
-                "posy": 889,
-                "color": "purple"
-            },
-            {
-                "posx": 644,
-                "posy": 110,
-                "color": "green"
-            },
-            {
-                "posx": 64,
-                "posy": 393,
-                "color": "yellow"
-            },
-            {
-                "posx": 441,
-                "posy": 639,
-                "color": "purple"
-            },
-            {
-                "posx": 235,
-                "posy": 131,
-                "color": "green"
-            },
-            {
-                "posx": 665,
-                "posy": 454,
-                "color": "pink"
-            },
-            {
-                "posx": 638,
-                "posy": 1013,
-                "color": "blue"
-            },
-            {
-                "posx": 789,
-                "posy": 19,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 344.71927316874553,
-        "posy": 591.061687324472,
-        "radio": 30,
-        "direccion": 172,
-        "color": "red",
-        "velocidad": 3,
-        "edad": 24,
-        "ciudad": "granada",
-        "colorpelo": "rubio",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 532,
-                "posy": 751,
-                "color": "red"
-            },
-            {
-                "posx": 90,
-                "posy": 489,
-                "color": "blue"
-            },
-            {
-                "posx": 354,
-                "posy": 545,
-                "color": "orange"
-            },
-            {
-                "posx": 741,
-                "posy": 216,
-                "color": "green"
-            },
-            {
-                "posx": 750,
-                "posy": 566,
-                "color": "black"
-            },
-            {
-                "posx": 244,
-                "posy": 98,
-                "color": "pink"
-            },
-            {
-                "posx": 261,
-                "posy": 876,
-                "color": "purple"
-            },
-            {
-                "posx": 975,
-                "posy": 372,
-                "color": "orange"
-            },
-            {
-                "posx": 1018,
-                "posy": 808,
-                "color": "purple"
-            },
-            {
-                "posx": 481,
-                "posy": 189,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 172.32610699054834,
-        "posy": 590.7987878577551,
-        "radio": 30,
-        "direccion": 251.14642956048223,
-        "color": "green",
-        "velocidad": 3,
-        "edad": 16,
-        "ciudad": "santander",
-        "colorpelo": "rubio",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 57,
-                "posy": 705,
-                "color": "red"
-            },
-            {
-                "posx": 855,
-                "posy": 968,
-                "color": "black"
-            },
-            {
-                "posx": 186,
-                "posy": 80,
-                "color": "red"
-            },
-            {
-                "posx": 392,
-                "posy": 200,
-                "color": "red"
-            },
-            {
-                "posx": 220,
-                "posy": 89,
-                "color": "black"
-            },
-            {
-                "posx": 673,
-                "posy": 900,
-                "color": "blue"
-            },
-            {
-                "posx": 948,
-                "posy": 455,
-                "color": "black"
-            },
-            {
-                "posx": 381,
-                "posy": 776,
-                "color": "yellow"
-            },
-            {
-                "posx": 252,
-                "posy": 265,
-                "color": "purple"
-            },
-            {
-                "posx": 88,
-                "posy": 626,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 725.1204066177218,
-        "posy": 821.9329665421525,
-        "radio": 30,
-        "direccion": 322,
-        "color": "pink",
-        "velocidad": 4,
-        "edad": 70,
-        "ciudad": "jaen",
-        "colorpelo": "rubio",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 169,
-                "posy": 100,
-                "color": "green"
-            },
-            {
-                "posx": 643,
-                "posy": 356,
-                "color": "red"
-            },
-            {
-                "posx": 870,
-                "posy": 820,
-                "color": "black"
-            },
-            {
-                "posx": 70,
-                "posy": 244,
-                "color": "blue"
-            },
-            {
-                "posx": 989,
-                "posy": 1001,
-                "color": "black"
-            },
-            {
-                "posx": 967,
-                "posy": 946,
-                "color": "purple"
-            },
-            {
-                "posx": 106,
-                "posy": 1010,
-                "color": "red"
-            },
-            {
-                "posx": 118,
-                "posy": 722,
-                "color": "black"
-            },
-            {
-                "posx": 671,
-                "posy": 690,
-                "color": "orange"
-            },
-            {
-                "posx": 31,
-                "posy": 262,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 63.53649876943761,
-        "posy": 98.45171893956112,
-        "radio": 30,
-        "direccion": 43.57710681883781,
-        "color": "blue",
-        "velocidad": 2,
-        "edad": 57,
-        "ciudad": "santander",
-        "colorpelo": "pelirrojo",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 53,
-                "posy": 555,
-                "color": "pink"
-            },
-            {
-                "posx": 745,
-                "posy": 791,
-                "color": "red"
-            },
-            {
-                "posx": 274,
-                "posy": 616,
-                "color": "green"
-            },
-            {
-                "posx": 8,
-                "posy": 43,
-                "color": "purple"
-            },
-            {
-                "posx": 999,
-                "posy": 699,
-                "color": "green"
-            },
-            {
-                "posx": 79,
-                "posy": 103,
-                "color": "purple"
-            },
-            {
-                "posx": 582,
-                "posy": 348,
-                "color": "blue"
-            },
-            {
-                "posx": 176,
-                "posy": 682,
-                "color": "green"
-            },
-            {
-                "posx": 152,
-                "posy": 303,
-                "color": "green"
-            },
-            {
-                "posx": 602,
-                "posy": 783,
-                "color": "red"
-            }
-        ]
-    },
-    {
-        "posx": 225.947019915243,
-        "posy": 364.6197055324477,
-        "radio": 30,
-        "direccion": 168,
-        "color": "red",
-        "velocidad": 3,
-        "edad": 5,
-        "ciudad": "madrid",
-        "colorpelo": "canoso",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 704,
-                "posy": 836,
-                "color": "yellow"
-            },
-            {
-                "posx": 502,
-                "posy": 746,
-                "color": "purple"
-            },
-            {
-                "posx": 296,
-                "posy": 473,
-                "color": "green"
-            },
-            {
-                "posx": 767,
-                "posy": 876,
-                "color": "blue"
-            },
-            {
-                "posx": 952,
-                "posy": 774,
-                "color": "pink"
-            },
-            {
-                "posx": 116,
-                "posy": 559,
-                "color": "black"
-            },
-            {
-                "posx": 499,
-                "posy": 841,
-                "color": "blue"
-            },
-            {
-                "posx": 413,
-                "posy": 325,
-                "color": "orange"
-            },
-            {
-                "posx": 827,
-                "posy": 921,
-                "color": "blue"
-            },
-            {
-                "posx": 283,
-                "posy": 126,
-                "color": "black"
-            }
-        ]
-    },
-    {
-        "posx": 53.82589941606054,
-        "posy": 592.68925580063,
-        "radio": 30,
-        "direccion": 132.14364323192845,
-        "color": "blue",
-        "velocidad": 5,
-        "edad": 57,
-        "ciudad": "almeria",
-        "colorpelo": "rubio",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 380,
-                "posy": 183,
-                "color": "purple"
-            },
-            {
-                "posx": 593,
-                "posy": 982,
-                "color": "black"
-            },
-            {
-                "posx": 231,
-                "posy": 941,
-                "color": "purple"
-            },
-            {
-                "posx": 458,
-                "posy": 907,
-                "color": "black"
-            },
-            {
-                "posx": 588,
-                "posy": 711,
-                "color": "yellow"
-            },
-            {
-                "posx": 186,
-                "posy": 287,
-                "color": "yellow"
-            },
-            {
-                "posx": 872,
-                "posy": 64,
-                "color": "green"
-            },
-            {
-                "posx": 433,
-                "posy": 129,
-                "color": "red"
-            },
-            {
-                "posx": 523,
-                "posy": 338,
-                "color": "green"
-            },
-            {
-                "posx": 489,
-                "posy": 182,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 348.39226867777853,
-        "posy": 627.0522309226214,
-        "radio": 30,
-        "direccion": 226,
-        "color": "orange",
-        "velocidad": 1,
-        "edad": 46,
-        "ciudad": "jaen",
-        "colorpelo": "rubio",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 332,
-                "posy": 802,
-                "color": "green"
-            },
-            {
-                "posx": 893,
-                "posy": 845,
-                "color": "yellow"
-            },
-            {
-                "posx": 985,
-                "posy": 585,
-                "color": "yellow"
-            },
-            {
-                "posx": 158,
-                "posy": 465,
-                "color": "black"
-            },
-            {
-                "posx": 607,
-                "posy": 619,
-                "color": "pink"
-            },
-            {
-                "posx": 106,
-                "posy": 958,
-                "color": "green"
-            },
-            {
-                "posx": 180,
-                "posy": 441,
-                "color": "purple"
-            },
-            {
-                "posx": 958,
-                "posy": 447,
-                "color": "purple"
-            },
-            {
-                "posx": 416,
-                "posy": 909,
-                "color": "red"
-            },
-            {
-                "posx": 297,
-                "posy": 381,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 357.12973351852105,
-        "posy": 419.628850443861,
-        "radio": 30,
-        "direccion": 262,
-        "color": "red",
-        "velocidad": 3,
-        "edad": 35,
-        "ciudad": "valencia",
-        "colorpelo": "pelirrojo",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 634,
-                "posy": 632,
-                "color": "yellow"
-            },
-            {
-                "posx": 162,
-                "posy": 926,
-                "color": "pink"
-            },
-            {
-                "posx": 599,
-                "posy": 703,
-                "color": "green"
-            },
-            {
-                "posx": 579,
-                "posy": 661,
-                "color": "purple"
-            },
-            {
-                "posx": 821,
-                "posy": 4,
-                "color": "blue"
-            },
-            {
-                "posx": 178,
-                "posy": 368,
-                "color": "purple"
-            },
-            {
-                "posx": 421,
-                "posy": 120,
-                "color": "orange"
-            },
-            {
-                "posx": 88,
-                "posy": 692,
-                "color": "orange"
-            },
-            {
-                "posx": 530,
-                "posy": 90,
-                "color": "purple"
-            },
-            {
-                "posx": 706,
-                "posy": 484,
-                "color": "green"
-            }
-        ]
-    },
-    {
-        "posx": 776.8543915296466,
-        "posy": 726.2337782772368,
-        "radio": 30,
-        "direccion": 178,
-        "color": "blue",
-        "velocidad": 2,
-        "edad": 53,
-        "ciudad": "jaen",
-        "colorpelo": "pelirrojo",
-        "profesion": "docencia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 392,
-                "posy": 203,
-                "color": "yellow"
-            },
-            {
-                "posx": 202,
-                "posy": 602,
-                "color": "pink"
-            },
-            {
-                "posx": 294,
-                "posy": 709,
-                "color": "black"
-            },
-            {
-                "posx": 569,
-                "posy": 96,
-                "color": "red"
-            },
-            {
-                "posx": 189,
-                "posy": 195,
-                "color": "black"
-            },
-            {
-                "posx": 538,
-                "posy": 212,
-                "color": "yellow"
-            },
-            {
-                "posx": 621,
-                "posy": 134,
-                "color": "orange"
-            },
-            {
-                "posx": 503,
-                "posy": 348,
-                "color": "purple"
-            },
-            {
-                "posx": 634,
-                "posy": 692,
-                "color": "yellow"
-            },
-            {
-                "posx": 111,
-                "posy": 494,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 698.2298796637854,
-        "posy": 811.4277803355216,
-        "radio": 30,
-        "direccion": 5.422464136581459,
-        "color": "yellow",
-        "velocidad": 5,
-        "edad": 36,
-        "ciudad": "bilbao",
-        "colorpelo": "pelirrojo",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 45,
-                "posy": 770,
-                "color": "pink"
-            },
-            {
-                "posx": 153,
-                "posy": 216,
-                "color": "purple"
-            },
-            {
-                "posx": 600,
-                "posy": 509,
-                "color": "orange"
-            },
-            {
-                "posx": 31,
-                "posy": 709,
-                "color": "black"
-            },
-            {
-                "posx": 892,
-                "posy": 128,
-                "color": "black"
-            },
-            {
-                "posx": 354,
-                "posy": 256,
-                "color": "orange"
-            },
-            {
-                "posx": 119,
-                "posy": 400,
-                "color": "blue"
-            },
-            {
-                "posx": 4,
-                "posy": 744,
-                "color": "red"
-            },
-            {
-                "posx": 46,
-                "posy": 627,
-                "color": "black"
-            },
-            {
-                "posx": 916,
-                "posy": 951,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 869.2281619064856,
-        "posy": 917.3743882873573,
-        "radio": 30,
-        "direccion": 117.14977655281218,
-        "color": "pink",
-        "velocidad": 2,
-        "edad": 48,
-        "ciudad": "valencia",
-        "colorpelo": "canoso",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 90,
-                "posy": 512,
-                "color": "purple"
-            },
-            {
-                "posx": 525,
-                "posy": 387,
-                "color": "purple"
-            },
-            {
-                "posx": 200,
-                "posy": 592,
-                "color": "yellow"
-            },
-            {
-                "posx": 302,
-                "posy": 672,
-                "color": "blue"
-            },
-            {
-                "posx": 386,
-                "posy": 307,
-                "color": "black"
-            },
-            {
-                "posx": 791,
-                "posy": 650,
-                "color": "orange"
-            },
-            {
-                "posx": 773,
-                "posy": 348,
-                "color": "purple"
-            },
-            {
-                "posx": 451,
-                "posy": 963,
-                "color": "yellow"
-            },
-            {
-                "posx": 558,
-                "posy": 634,
-                "color": "red"
-            },
-            {
-                "posx": 287,
-                "posy": 736,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 605.2466651704187,
-        "posy": 967.8579411093162,
-        "radio": 30,
-        "direccion": 248.95477624628782,
-        "color": "green",
-        "velocidad": 3,
-        "edad": 61,
-        "ciudad": "jaen",
-        "colorpelo": "pelirrojo",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 17,
-                "posy": 586,
-                "color": "yellow"
-            },
-            {
-                "posx": 900,
-                "posy": 340,
-                "color": "pink"
-            },
-            {
-                "posx": 546,
-                "posy": 503,
-                "color": "yellow"
-            },
-            {
-                "posx": 227,
-                "posy": 782,
-                "color": "pink"
-            },
-            {
-                "posx": 63,
-                "posy": 188,
-                "color": "red"
-            },
-            {
-                "posx": 859,
-                "posy": 847,
-                "color": "blue"
-            },
-            {
-                "posx": 755,
-                "posy": 847,
-                "color": "red"
-            },
-            {
-                "posx": 968,
-                "posy": 189,
-                "color": "pink"
-            },
-            {
-                "posx": 159,
-                "posy": 61,
-                "color": "pink"
-            },
-            {
-                "posx": 1005,
-                "posy": 81,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 941.0537181774534,
-        "posy": 154.45091559950953,
-        "radio": 30,
-        "direccion": 283.6577650744347,
-        "color": "purple",
-        "velocidad": 3,
-        "edad": 73,
+        "edad": 94,
         "ciudad": "madrid",
         "colorpelo": "rubio",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 396,
-                "posy": 862,
-                "color": "orange"
-            },
-            {
-                "posx": 643,
-                "posy": 273,
-                "color": "blue"
-            },
-            {
-                "posx": 946,
-                "posy": 862,
-                "color": "orange"
-            },
-            {
-                "posx": 441,
-                "posy": 130,
-                "color": "purple"
-            },
-            {
-                "posx": 504,
-                "posy": 480,
-                "color": "pink"
-            },
-            {
-                "posx": 789,
-                "posy": 293,
-                "color": "pink"
-            },
-            {
-                "posx": 611,
-                "posy": 178,
-                "color": "red"
-            },
-            {
-                "posx": 101,
-                "posy": 667,
-                "color": "red"
-            },
-            {
-                "posx": 144,
-                "posy": 773,
-                "color": "black"
-            },
-            {
-                "posx": 762,
-                "posy": 22,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 151.23671763635372,
-        "posy": 245.69218850128004,
-        "radio": 30,
-        "direccion": 296.33137108842527,
-        "color": "purple",
-        "velocidad": 5,
-        "edad": 10,
-        "ciudad": "jaen",
-        "colorpelo": "moreno",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 250,
-                "posy": 462,
-                "color": "orange"
-            },
-            {
-                "posx": 913,
-                "posy": 728,
-                "color": "green"
-            },
-            {
-                "posx": 879,
-                "posy": 913,
-                "color": "yellow"
-            },
-            {
-                "posx": 743,
-                "posy": 365,
-                "color": "green"
-            },
-            {
-                "posx": 490,
-                "posy": 637,
-                "color": "blue"
-            },
-            {
-                "posx": 276,
-                "posy": 295,
-                "color": "purple"
-            },
-            {
-                "posx": 821,
-                "posy": 184,
-                "color": "blue"
-            },
-            {
-                "posx": 218,
-                "posy": 246,
-                "color": "red"
-            },
-            {
-                "posx": 78,
-                "posy": 787,
-                "color": "pink"
-            },
-            {
-                "posx": 653,
-                "posy": 695,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 692.6599273175749,
-        "posy": 281.71968072625907,
-        "radio": 30,
-        "direccion": 126.35720008609668,
-        "color": "pink",
-        "velocidad": 5,
-        "edad": 23,
-        "ciudad": "santander",
-        "colorpelo": "pelirrojo",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 1017,
-                "posy": 333,
-                "color": "purple"
-            },
-            {
-                "posx": 36,
-                "posy": 97,
-                "color": "purple"
-            },
-            {
-                "posx": 796,
-                "posy": 389,
-                "color": "yellow"
-            },
-            {
-                "posx": 896,
-                "posy": 868,
-                "color": "red"
-            },
-            {
-                "posx": 1002,
-                "posy": 724,
-                "color": "green"
-            },
-            {
-                "posx": 938,
-                "posy": 287,
-                "color": "red"
-            },
-            {
-                "posx": 475,
-                "posy": 393,
-                "color": "yellow"
-            },
-            {
-                "posx": 465,
-                "posy": 985,
-                "color": "red"
-            },
-            {
-                "posx": 238,
-                "posy": 518,
-                "color": "orange"
-            },
-            {
-                "posx": 274,
-                "posy": 691,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 917.1786722385974,
-        "posy": 683.9899762365152,
-        "radio": 30,
-        "direccion": 218.41622551703412,
-        "color": "purple",
-        "velocidad": 5,
-        "edad": 70,
-        "ciudad": "valencia",
-        "colorpelo": "canoso",
         "profesion": "docencia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 270,
-                "posy": 178,
-                "color": "red"
-            },
-            {
-                "posx": 1018,
-                "posy": 523,
-                "color": "green"
-            },
-            {
-                "posx": 648,
-                "posy": 782,
-                "color": "red"
-            },
-            {
-                "posx": 756,
-                "posy": 574,
-                "color": "yellow"
-            },
-            {
-                "posx": 521,
-                "posy": 792,
-                "color": "red"
-            },
-            {
-                "posx": 739,
-                "posy": 421,
-                "color": "yellow"
-            },
-            {
-                "posx": 921,
-                "posy": 945,
-                "color": "green"
-            },
-            {
-                "posx": 801,
-                "posy": 789,
-                "color": "blue"
-            },
-            {
-                "posx": 154,
-                "posy": 851,
-                "color": "yellow"
-            },
-            {
-                "posx": 127,
-                "posy": 765,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 447.6273550701969,
-        "posy": 467.998409202721,
-        "radio": 30,
-        "direccion": 282.9236622657023,
-        "color": "yellow",
-        "velocidad": 5,
-        "edad": 10,
-        "ciudad": "valencia",
-        "colorpelo": "pelirrojo",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 526,
-                "posy": 204,
-                "color": "blue"
-            },
-            {
-                "posx": 855,
-                "posy": 559,
-                "color": "yellow"
-            },
-            {
-                "posx": 559,
-                "posy": 636,
+                "posx": 594,
+                "posy": 741,
                 "color": "purple"
             },
             {
-                "posx": 142,
-                "posy": 934,
-                "color": "black"
-            },
-            {
-                "posx": 143,
-                "posy": 570,
-                "color": "pink"
-            },
-            {
-                "posx": 30,
-                "posy": 462,
-                "color": "blue"
-            },
-            {
-                "posx": 825,
-                "posy": 1010,
-                "color": "green"
-            },
-            {
-                "posx": 937,
-                "posy": 513,
-                "color": "green"
-            },
-            {
-                "posx": 36,
-                "posy": 554,
+                "posx": 437,
+                "posy": 522,
                 "color": "yellow"
-            },
-            {
-                "posx": 641,
-                "posy": 385,
-                "color": "red"
-            }
-        ]
-    },
-    {
-        "posx": 904.5481481724282,
-        "posy": 388.7142784172038,
-        "radio": 30,
-        "direccion": 299.71012525466307,
-        "color": "yellow",
-        "velocidad": 3,
-        "edad": 5,
-        "ciudad": "madrid",
-        "colorpelo": "pelirrojo",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 754,
-                "posy": 584,
-                "color": "purple"
-            },
-            {
-                "posx": 462,
-                "posy": 551,
-                "color": "yellow"
-            },
-            {
-                "posx": 68,
-                "posy": 410,
-                "color": "pink"
-            },
-            {
-                "posx": 877,
-                "posy": 218,
-                "color": "orange"
-            },
-            {
-                "posx": 405,
-                "posy": 142,
-                "color": "pink"
-            },
-            {
-                "posx": 719,
-                "posy": 950,
-                "color": "green"
-            },
-            {
-                "posx": 847,
-                "posy": 502,
-                "color": "red"
-            },
-            {
-                "posx": 377,
-                "posy": 140,
-                "color": "purple"
-            },
-            {
-                "posx": 226,
-                "posy": 247,
-                "color": "yellow"
-            },
-            {
-                "posx": 434,
-                "posy": 656,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 1001.7170043510874,
-        "posy": 614.429156399674,
-        "radio": 30,
-        "direccion": 283,
-        "color": "green",
-        "velocidad": 5,
-        "edad": 22,
-        "ciudad": "bilbao",
-        "colorpelo": "moreno",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 942,
-                "posy": 96,
-                "color": "blue"
-            },
-            {
-                "posx": 859,
-                "posy": 532,
-                "color": "orange"
-            },
-            {
-                "posx": 178,
-                "posy": 860,
-                "color": "pink"
-            },
-            {
-                "posx": 80,
-                "posy": 494,
-                "color": "red"
-            },
-            {
-                "posx": 830,
-                "posy": 438,
-                "color": "orange"
-            },
-            {
-                "posx": 760,
-                "posy": 541,
-                "color": "green"
-            },
-            {
-                "posx": 655,
-                "posy": 303,
-                "color": "red"
-            },
-            {
-                "posx": 472,
-                "posy": 888,
-                "color": "orange"
-            },
-            {
-                "posx": 275,
-                "posy": 366,
-                "color": "orange"
-            },
-            {
-                "posx": 730,
-                "posy": 337,
-                "color": "green"
-            }
-        ]
-    },
-    {
-        "posx": 650.4473246057333,
-        "posy": 795.1297408679008,
-        "radio": 30,
-        "direccion": 191.4394032061466,
-        "color": "blue",
-        "velocidad": 3,
-        "edad": 90,
-        "ciudad": "granada",
-        "colorpelo": "canoso",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 942,
-                "posy": 423,
-                "color": "green"
-            },
-            {
-                "posx": 418,
-                "posy": 645,
-                "color": "blue"
-            },
-            {
-                "posx": 627,
-                "posy": 443,
-                "color": "black"
-            },
-            {
-                "posx": 43,
-                "posy": 97,
-                "color": "red"
-            },
-            {
-                "posx": 174,
-                "posy": 712,
-                "color": "green"
-            },
-            {
-                "posx": 48,
-                "posy": 724,
-                "color": "black"
-            },
-            {
-                "posx": 513,
-                "posy": 953,
-                "color": "black"
-            },
-            {
-                "posx": 430,
-                "posy": 866,
-                "color": "black"
-            },
-            {
-                "posx": 87,
-                "posy": 107,
-                "color": "yellow"
-            },
-            {
-                "posx": 191,
-                "posy": 106,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 142.0771634248215,
-        "posy": 582.8647313660746,
-        "radio": 30,
-        "direccion": 230.20580453822242,
-        "color": "orange",
-        "velocidad": 4,
-        "edad": 41,
-        "ciudad": "santander",
-        "colorpelo": "rubio",
-        "profesion": "policia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 154,
-                "posy": 73,
-                "color": "purple"
-            },
-            {
-                "posx": 606,
-                "posy": 707,
-                "color": "purple"
-            },
-            {
-                "posx": 1017,
-                "posy": 772,
-                "color": "purple"
-            },
-            {
-                "posx": 495,
-                "posy": 690,
-                "color": "yellow"
-            },
-            {
-                "posx": 120,
-                "posy": 107,
-                "color": "red"
-            },
-            {
-                "posx": 931,
-                "posy": 157,
-                "color": "black"
-            },
-            {
-                "posx": 467,
-                "posy": 80,
-                "color": "green"
-            },
-            {
-                "posx": 533,
-                "posy": 196,
-                "color": "green"
-            },
-            {
-                "posx": 763,
-                "posy": 316,
-                "color": "black"
-            },
-            {
-                "posx": 1010,
-                "posy": 471,
-                "color": "green"
-            }
-        ]
-    },
-    {
-        "posx": 272.7838826563815,
-        "posy": 632.2840219269945,
-        "radio": 30,
-        "direccion": 67.85050265791942,
-        "color": "purple",
-        "velocidad": 3,
-        "edad": 56,
-        "ciudad": "jaen",
-        "colorpelo": "canoso",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 61,
-                "posy": 1008,
-                "color": "green"
-            },
-            {
-                "posx": 632,
-                "posy": 579,
-                "color": "green"
-            },
-            {
-                "posx": 452,
-                "posy": 119,
-                "color": "black"
-            },
-            {
-                "posx": 52,
-                "posy": 797,
-                "color": "red"
-            },
-            {
-                "posx": 128,
-                "posy": 766,
-                "color": "yellow"
-            },
-            {
-                "posx": 455,
-                "posy": 137,
-                "color": "green"
-            },
-            {
-                "posx": 220,
-                "posy": 859,
-                "color": "yellow"
-            },
-            {
-                "posx": 312,
-                "posy": 1024,
-                "color": "green"
-            },
-            {
-                "posx": 860,
-                "posy": 140,
-                "color": "pink"
-            },
-            {
-                "posx": 542,
-                "posy": 648,
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "posx": 32.165681795613686,
-        "posy": 437.9592460093165,
-        "radio": 30,
-        "direccion": 277.7182696820584,
-        "color": "yellow",
-        "velocidad": 1,
-        "edad": 35,
-        "ciudad": "bilbao",
-        "colorpelo": "sin pelo",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 264,
-                "posy": 953,
-                "color": "black"
-            },
-            {
-                "posx": 413,
-                "posy": 567,
-                "color": "black"
-            },
-            {
-                "posx": 319,
-                "posy": 519,
-                "color": "black"
-            },
-            {
-                "posx": 517,
-                "posy": 435,
-                "color": "purple"
-            },
-            {
-                "posx": 593,
-                "posy": 273,
-                "color": "black"
-            },
-            {
-                "posx": 537,
-                "posy": 518,
-                "color": "black"
-            },
-            {
-                "posx": 781,
-                "posy": 208,
-                "color": "orange"
-            },
-            {
-                "posx": 119,
-                "posy": 647,
-                "color": "blue"
-            },
-            {
-                "posx": 157,
-                "posy": 629,
-                "color": "green"
-            },
-            {
-                "posx": 347,
-                "posy": 314,
-                "color": "yellow"
-            }
-        ]
-    },
-    {
-        "posx": 169.96812222347876,
-        "posy": 495.7391131796464,
-        "radio": 30,
-        "direccion": 85,
-        "color": "yellow",
-        "velocidad": 2,
-        "edad": 95,
-        "ciudad": "almeria",
-        "colorpelo": "pelirrojo",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 110,
-                "posy": 457,
-                "color": "orange"
-            },
-            {
-                "posx": 671,
-                "posy": 942,
-                "color": "pink"
-            },
-            {
-                "posx": 655,
-                "posy": 560,
-                "color": "pink"
-            },
-            {
-                "posx": 896,
-                "posy": 436,
-                "color": "orange"
-            },
-            {
-                "posx": 743,
-                "posy": 997,
-                "color": "blue"
-            },
-            {
-                "posx": 114,
-                "posy": 308,
-                "color": "pink"
-            },
-            {
-                "posx": 548,
-                "posy": 409,
-                "color": "red"
-            },
-            {
-                "posx": 483,
-                "posy": 326,
-                "color": "green"
-            },
-            {
-                "posx": 244,
-                "posy": 1022,
-                "color": "pink"
-            },
-            {
-                "posx": 175,
-                "posy": 265,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 395.68494226349947,
-        "posy": 972.7859182980144,
-        "radio": 30,
-        "direccion": 29.353261639222442,
-        "color": "blue",
-        "velocidad": 5,
-        "edad": 49,
-        "ciudad": "almeria",
-        "colorpelo": "rubio",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 35,
-                "posy": 692,
-                "color": "orange"
-            },
-            {
-                "posx": 962,
-                "posy": 464,
-                "color": "purple"
-            },
-            {
-                "posx": 199,
-                "posy": 269,
-                "color": "orange"
-            },
-            {
-                "posx": 1006,
-                "posy": 994,
-                "color": "purple"
-            },
-            {
-                "posx": 916,
-                "posy": 974,
-                "color": "yellow"
-            },
-            {
-                "posx": 14,
-                "posy": 223,
-                "color": "black"
-            },
-            {
-                "posx": 343,
-                "posy": 373,
-                "color": "red"
-            },
-            {
-                "posx": 873,
-                "posy": 930,
-                "color": "orange"
             },
             {
                 "posx": 411,
-                "posy": 430,
-                "color": "pink"
-            },
-            {
-                "posx": 471,
-                "posy": 206,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 876.6971984998879,
-        "posy": 52.667194512327,
-        "radio": 30,
-        "direccion": 104.33000080952898,
-        "color": "red",
-        "velocidad": 2,
-        "edad": 4,
-        "ciudad": "santander",
-        "colorpelo": "pelirrojo",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 959,
-                "posy": 721,
+                "posy": 753,
                 "color": "green"
             },
             {
-                "posx": 502,
-                "posy": 851,
-                "color": "blue"
-            },
-            {
-                "posx": 65,
-                "posy": 805,
-                "color": "yellow"
-            },
-            {
-                "posx": 1007,
-                "posy": 184,
+                "posx": 707,
+                "posy": 175,
                 "color": "black"
             },
             {
-                "posx": 454,
-                "posy": 220,
-                "color": "green"
-            },
-            {
-                "posx": 925,
-                "posy": 342,
-                "color": "green"
-            },
-            {
-                "posx": 909,
-                "posy": 732,
-                "color": "pink"
-            },
-            {
-                "posx": 654,
-                "posy": 110,
-                "color": "orange"
-            },
-            {
-                "posx": 494,
-                "posy": 556,
-                "color": "yellow"
-            },
-            {
-                "posx": 359,
-                "posy": 891,
-                "color": "red"
-            }
-        ]
-    },
-    {
-        "posx": 448.5590914355479,
-        "posy": 424.09326915776705,
-        "radio": 30,
-        "direccion": 300,
-        "color": "pink",
-        "velocidad": 2,
-        "edad": 50,
-        "ciudad": "santander",
-        "colorpelo": "pelirrojo",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 42,
-                "posy": 160,
+                "posx": 415,
+                "posy": 191,
                 "color": "blue"
             },
             {
-                "posx": 435,
-                "posy": 245,
-                "color": "yellow"
-            },
-            {
-                "posx": 753,
-                "posy": 491,
-                "color": "black"
-            },
-            {
-                "posx": 81,
-                "posy": 755,
-                "color": "yellow"
-            },
-            {
-                "posx": 784,
-                "posy": 698,
-                "color": "green"
-            },
-            {
-                "posx": 1021,
-                "posy": 74,
-                "color": "blue"
-            },
-            {
-                "posx": 311,
-                "posy": 990,
-                "color": "green"
-            },
-            {
-                "posx": 413,
-                "posy": 633,
-                "color": "green"
-            },
-            {
-                "posx": 546,
-                "posy": 185,
-                "color": "yellow"
-            },
-            {
-                "posx": 205,
-                "posy": 692,
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "posx": 858.8636113131354,
-        "posy": 338.0880753279646,
-        "radio": 30,
-        "direccion": 255.03747559637097,
-        "color": "yellow",
-        "velocidad": 2,
-        "edad": 20,
-        "ciudad": "bilbao",
-        "colorpelo": "moreno",
-        "profesion": "derecho",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 573,
-                "posy": 783,
-                "color": "orange"
-            },
-            {
-                "posx": 430,
-                "posy": 789,
-                "color": "yellow"
-            },
-            {
-                "posx": 653,
-                "posy": 454,
-                "color": "red"
-            },
-            {
-                "posx": 352,
-                "posy": 428,
+                "posx": 826,
+                "posy": 876,
                 "color": "purple"
             },
             {
-                "posx": 551,
-                "posy": 791,
-                "color": "red"
+                "posx": 827,
+                "posy": 686,
+                "color": "green"
             },
             {
-                "posx": 688,
-                "posy": 676,
+                "posx": 1000,
+                "posy": 808,
                 "color": "yellow"
             },
             {
-                "posx": 968,
-                "posy": 719,
-                "color": "red"
+                "posx": 92,
+                "posy": 946,
+                "color": "yellow"
             },
             {
-                "posx": 254,
-                "posy": 434,
-                "color": "blue"
-            },
-            {
-                "posx": 870,
-                "posy": 895,
-                "color": "orange"
-            },
-            {
-                "posx": 842,
-                "posy": 37,
-                "color": "black"
+                "posx": 410,
+                "posy": 439,
+                "color": "yellow"
             }
         ]
     },
     {
-        "posx": 481.4054273481635,
-        "posy": 540.0023198559119,
+        "posx": 317.6587240931916,
+        "posy": 984.9089211426532,
         "radio": 30,
-        "direccion": 246,
-        "color": "blue",
-        "velocidad": 2,
-        "edad": 7,
-        "ciudad": "bilbao",
-        "colorpelo": "rubio",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 345,
-                "posy": 305,
-                "color": "pink"
-            },
-            {
-                "posx": 215,
-                "posy": 160,
-                "color": "red"
-            },
-            {
-                "posx": 586,
-                "posy": 168,
-                "color": "blue"
-            },
-            {
-                "posx": 837,
-                "posy": 829,
-                "color": "purple"
-            },
-            {
-                "posx": 227,
-                "posy": 125,
-                "color": "red"
-            },
-            {
-                "posx": 678,
-                "posy": 250,
-                "color": "blue"
-            },
-            {
-                "posx": 603,
-                "posy": 70,
-                "color": "pink"
-            },
-            {
-                "posx": 298,
-                "posy": 765,
-                "color": "blue"
-            },
-            {
-                "posx": 123,
-                "posy": 795,
-                "color": "blue"
-            },
-            {
-                "posx": 186,
-                "posy": 201,
-                "color": "red"
-            }
-        ]
-    },
-    {
-        "posx": 811.8828090252257,
-        "posy": 326.2502351676211,
-        "radio": 30,
-        "direccion": 326,
+        "direccion": 294.90425338480304,
         "color": "black",
-        "velocidad": 1,
-        "edad": 25,
-        "ciudad": "barcelona",
-        "colorpelo": "sin pelo",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 948,
-                "posy": 955,
-                "color": "red"
-            },
-            {
-                "posx": 903,
-                "posy": 111,
-                "color": "black"
-            },
-            {
-                "posx": 604,
-                "posy": 318,
-                "color": "red"
-            },
-            {
-                "posx": 37,
-                "posy": 220,
-                "color": "green"
-            },
-            {
-                "posx": 824,
-                "posy": 338,
-                "color": "purple"
-            },
-            {
-                "posx": 37,
-                "posy": 650,
-                "color": "blue"
-            },
-            {
-                "posx": 97,
-                "posy": 636,
-                "color": "black"
-            },
-            {
-                "posx": 491,
-                "posy": 107,
-                "color": "black"
-            },
-            {
-                "posx": 633,
-                "posy": 253,
-                "color": "purple"
-            },
-            {
-                "posx": 442,
-                "posy": 865,
-                "color": "green"
-            }
-        ]
-    },
-    {
-        "posx": 389.6347471922539,
-        "posy": 471.68395873170255,
-        "radio": 30,
-        "direccion": 120.90937276918427,
-        "color": "red",
-        "velocidad": 5,
-        "edad": 58,
-        "ciudad": "almeria",
+        "velocidad": 4,
+        "edad": 32,
+        "ciudad": "santander",
         "colorpelo": "canoso",
-        "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 67,
-                "posy": 301,
-                "color": "orange"
-            },
-            {
-                "posx": 10,
-                "posy": 473,
-                "color": "red"
-            },
-            {
-                "posx": 384,
-                "posy": 811,
-                "color": "black"
-            },
-            {
-                "posx": 151,
-                "posy": 829,
-                "color": "yellow"
-            },
-            {
-                "posx": 536,
-                "posy": 141,
-                "color": "purple"
-            },
-            {
-                "posx": 218,
-                "posy": 154,
-                "color": "red"
-            },
-            {
-                "posx": 899,
-                "posy": 401,
-                "color": "red"
-            },
-            {
-                "posx": 899,
-                "posy": 156,
-                "color": "yellow"
-            },
-            {
-                "posx": 677,
-                "posy": 749,
-                "color": "blue"
-            },
-            {
-                "posx": 943,
-                "posy": 395,
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "posx": 474.70573698846795,
-        "posy": 222.28896558268008,
-        "radio": 30,
-        "direccion": 170.28487788404314,
-        "color": "orange",
-        "velocidad": 3,
-        "edad": 23,
-        "ciudad": "valencia",
-        "colorpelo": "canoso",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 551,
-                "posy": 939,
-                "color": "green"
-            },
-            {
-                "posx": 642,
-                "posy": 664,
-                "color": "green"
-            },
-            {
-                "posx": 371,
+                "posx": 1011,
                 "posy": 243,
                 "color": "blue"
             },
             {
-                "posx": 988,
-                "posy": 75,
+                "posx": 947,
+                "posy": 830,
                 "color": "red"
             },
             {
-                "posx": 441,
-                "posy": 833,
-                "color": "green"
+                "posx": 714,
+                "posy": 527,
+                "color": "blue"
             },
             {
-                "posx": 440,
-                "posy": 575,
-                "color": "green"
+                "posx": 296,
+                "posy": 71,
+                "color": "orange"
             },
             {
-                "posx": 659,
-                "posy": 51,
+                "posx": 840,
+                "posy": 753,
+                "color": "pink"
+            },
+            {
+                "posx": 15,
+                "posy": 240,
+                "color": "black"
+            },
+            {
+                "posx": 57,
+                "posy": 131,
+                "color": "yellow"
+            },
+            {
+                "posx": 834,
+                "posy": 546,
                 "color": "purple"
             },
             {
-                "posx": 765,
-                "posy": 823,
+                "posx": 718,
+                "posy": 930,
                 "color": "red"
             },
             {
-                "posx": 149,
-                "posy": 463,
-                "color": "red"
-            },
-            {
-                "posx": 453,
-                "posy": 943,
+                "posx": 608,
+                "posy": 231,
                 "color": "yellow"
             }
         ]
     },
     {
-        "posx": 585.7503022650021,
-        "posy": 220.82897432749033,
+        "posx": 378.35297390500847,
+        "posy": 791.6695034061064,
         "radio": 30,
-        "direccion": 246.25729213945002,
-        "color": "pink",
+        "direccion": 308.1444294450741,
+        "color": "orange",
         "velocidad": 3,
-        "edad": 95,
+        "edad": 8,
         "ciudad": "valencia",
-        "colorpelo": "pelirrojo",
-        "profesion": "policia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "colorpelo": "moreno",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 435,
-                "posy": 706,
-                "color": "blue"
+                "posx": 73,
+                "posy": 473,
+                "color": "pink"
             },
             {
-                "posx": 670,
-                "posy": 764,
-                "color": "yellow"
+                "posx": 851,
+                "posy": 568,
+                "color": "pink"
             },
             {
-                "posx": 290,
-                "posy": 491,
-                "color": "blue"
+                "posx": 722,
+                "posy": 438,
+                "color": "green"
             },
             {
-                "posx": 179,
-                "posy": 155,
-                "color": "blue"
+                "posx": 105,
+                "posy": 615,
+                "color": "green"
             },
             {
-                "posx": 11,
-                "posy": 977,
-                "color": "black"
-            },
-            {
-                "posx": 455,
-                "posy": 827,
-                "color": "yellow"
-            },
-            {
-                "posx": 878,
-                "posy": 915,
+                "posx": 644,
+                "posy": 270,
                 "color": "orange"
+            },
+            {
+                "posx": 171,
+                "posy": 414,
+                "color": "yellow"
+            },
+            {
+                "posx": 748,
+                "posy": 540,
+                "color": "pink"
+            },
+            {
+                "posx": 706,
+                "posy": 304,
+                "color": "orange"
+            },
+            {
+                "posx": 754,
+                "posy": 921,
+                "color": "red"
+            },
+            {
+                "posx": 424,
+                "posy": 226,
+                "color": "black"
+            }
+        ]
+    },
+    {
+        "posx": 162.71575356724023,
+        "posy": 370.58839691563094,
+        "radio": 30,
+        "direccion": 249.47109121751103,
+        "color": "yellow",
+        "velocidad": 5,
+        "edad": 59,
+        "ciudad": "santander",
+        "colorpelo": "sin pelo",
+        "profesion": "medicina",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 479,
+                "posy": 802,
+                "color": "blue"
+            },
+            {
+                "posx": 369,
+                "posy": 723,
+                "color": "green"
+            },
+            {
+                "posx": 934,
+                "posy": 660,
+                "color": "pink"
+            },
+            {
+                "posx": 697,
+                "posy": 813,
+                "color": "green"
+            },
+            {
+                "posx": 598,
+                "posy": 564,
+                "color": "green"
+            },
+            {
+                "posx": 685,
+                "posy": 143,
+                "color": "blue"
+            },
+            {
+                "posx": 980,
+                "posy": 4,
+                "color": "purple"
+            },
+            {
+                "posx": 873,
+                "posy": 86,
+                "color": "green"
             },
             {
                 "posx": 232,
-                "posy": 281,
-                "color": "blue"
+                "posy": 735,
+                "color": "yellow"
             },
             {
-                "posx": 673,
-                "posy": 126,
-                "color": "purple"
-            },
-            {
-                "posx": 1017,
-                "posy": 887,
-                "color": "black"
+                "posx": 397,
+                "posy": 603,
+                "color": "green"
             }
         ]
     },
     {
-        "posx": 721.6548012561047,
-        "posy": 998.9102243503953,
+        "posx": 968.695234562834,
+        "posy": 344.2822801818805,
         "radio": 30,
-        "direccion": 160,
-        "color": "blue",
-        "velocidad": 1,
-        "edad": 100,
-        "ciudad": "barcelona",
-        "colorpelo": "canoso",
-        "profesion": "arquitectura",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "direccion": 285.84661701245847,
+        "color": "red",
+        "velocidad": 2,
+        "edad": 76,
+        "ciudad": "granada",
+        "colorpelo": "moreno",
+        "profesion": "policia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 110,
-                "posy": 320,
+                "posx": 29,
+                "posy": 597,
+                "color": "black"
+            },
+            {
+                "posx": 335,
+                "posy": 762,
+                "color": "orange"
+            },
+            {
+                "posx": 403,
+                "posy": 813,
                 "color": "purple"
             },
             {
-                "posx": 115,
-                "posy": 560,
-                "color": "purple"
+                "posx": 943,
+                "posy": 818,
+                "color": "black"
             },
             {
-                "posx": 394,
-                "posy": 442,
+                "posx": 319,
+                "posy": 125,
+                "color": "black"
+            },
+            {
+                "posx": 747,
+                "posy": 486,
+                "color": "pink"
+            },
+            {
+                "posx": 294,
+                "posy": 385,
+                "color": "pink"
+            },
+            {
+                "posx": 533,
+                "posy": 472,
+                "color": "yellow"
+            },
+            {
+                "posx": 984,
+                "posy": 638,
                 "color": "green"
             },
             {
-                "posx": 401,
-                "posy": 114,
-                "color": "purple"
-            },
-            {
-                "posx": 630,
-                "posy": 281,
-                "color": "red"
-            },
-            {
-                "posx": 517,
-                "posy": 248,
+                "posx": 970,
+                "posy": 704,
                 "color": "yellow"
-            },
-            {
-                "posx": 489,
-                "posy": 57,
-                "color": "blue"
-            },
-            {
-                "posx": 98,
-                "posy": 41,
-                "color": "pink"
-            },
-            {
-                "posx": 472,
-                "posy": 238,
-                "color": "blue"
-            },
-            {
-                "posx": 18,
-                "posy": 293,
-                "color": "orange"
             }
         ]
     },
     {
-        "posx": 801.4677660921154,
-        "posy": 432.6795884179188,
+        "posx": 606.0805260074432,
+        "posy": -30.102224532090997,
         "radio": 30,
-        "direccion": 229.6875885301733,
-        "color": "blue",
-        "velocidad": 2,
-        "edad": 61,
-        "ciudad": "almeria",
+        "direccion": 79.12249938642293,
+        "color": "pink",
+        "velocidad": 1,
+        "edad": 80,
+        "ciudad": "madrid",
         "colorpelo": "pelirrojo",
-        "profesion": "enfermeria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 519,
-                "posy": 123,
+                "posx": 885,
+                "posy": 969,
                 "color": "pink"
             },
             {
-                "posx": 785,
-                "posy": 6,
+                "posx": 101,
+                "posy": 612,
+                "color": "black"
+            },
+            {
+                "posx": 506,
+                "posy": 518,
                 "color": "purple"
             },
             {
-                "posx": 927,
-                "posy": 350,
+                "posx": 355,
+                "posy": 63,
+                "color": "purple"
+            },
+            {
+                "posx": 80,
+                "posy": 78,
+                "color": "red"
+            },
+            {
+                "posx": 945,
+                "posy": 939,
                 "color": "yellow"
             },
             {
-                "posx": 62,
-                "posy": 165,
+                "posx": 919,
+                "posy": 915,
+                "color": "purple"
+            },
+            {
+                "posx": 907,
+                "posy": 950,
+                "color": "black"
+            },
+            {
+                "posx": 546,
+                "posy": 900,
+                "color": "blue"
+            },
+            {
+                "posx": 746,
+                "posy": 318,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 20.588362719644874,
+        "posy": 900.0569002014963,
+        "radio": 30,
+        "direccion": 44.7211798015816,
+        "color": "blue",
+        "velocidad": 5,
+        "edad": 53,
+        "ciudad": "jaen",
+        "colorpelo": "pelirrojo",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 236,
+                "posy": 907,
+                "color": "red"
+            },
+            {
+                "posx": 105,
+                "posy": 605,
+                "color": "pink"
+            },
+            {
+                "posx": 39,
+                "posy": 757,
+                "color": "green"
+            },
+            {
+                "posx": 143,
+                "posy": 786,
                 "color": "yellow"
             },
             {
-                "posx": 214,
-                "posy": 552,
-                "color": "orange"
+                "posx": 872,
+                "posy": 525,
+                "color": "green"
             },
             {
-                "posx": 846,
-                "posy": 295,
-                "color": "yellow"
-            },
-            {
-                "posx": 532,
-                "posy": 408,
+                "posx": 547,
+                "posy": 569,
                 "color": "red"
             },
             {
                 "posx": 560,
-                "posy": 885,
-                "color": "pink"
-            },
-            {
-                "posx": 27,
-                "posy": 622,
+                "posy": 97,
                 "color": "blue"
             },
             {
-                "posx": 279,
-                "posy": 885,
-                "color": "pink"
-            }
-        ]
-    },
-    {
-        "posx": 316.99128999175156,
-        "posy": 737.134445994028,
-        "radio": 30,
-        "direccion": 295.14247580068997,
-        "color": "pink",
-        "velocidad": 2,
-        "edad": 34,
-        "ciudad": "bilbao",
-        "colorpelo": "canoso",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 487,
-                "posy": 1002,
+                "posx": 903,
+                "posy": 4,
                 "color": "black"
             },
             {
-                "posx": 823,
-                "posy": 7,
-                "color": "blue"
-            },
-            {
-                "posx": 985,
-                "posy": 1018,
-                "color": "black"
-            },
-            {
-                "posx": 815,
-                "posy": 574,
-                "color": "purple"
-            },
-            {
-                "posx": 794,
-                "posy": 763,
-                "color": "pink"
-            },
-            {
-                "posx": 327,
-                "posy": 225,
-                "color": "blue"
-            },
-            {
-                "posx": 650,
-                "posy": 3,
-                "color": "purple"
-            },
-            {
-                "posx": 264,
-                "posy": 793,
-                "color": "green"
-            },
-            {
-                "posx": 209,
-                "posy": 56,
-                "color": "black"
-            },
-            {
-                "posx": 373,
-                "posy": 825,
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "posx": 160.21007021639159,
-        "posy": 863.3868334656586,
-        "radio": 30,
-        "direccion": 93.28351484461834,
-        "color": "black",
-        "velocidad": 2,
-        "edad": 26,
-        "ciudad": "granada",
-        "colorpelo": "moreno",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 147,
-                "posy": 90,
-                "color": "red"
-            },
-            {
-                "posx": 189,
-                "posy": 978,
-                "color": "red"
-            },
-            {
-                "posx": 636,
-                "posy": 444,
-                "color": "purple"
-            },
-            {
-                "posx": 801,
-                "posy": 486,
-                "color": "orange"
-            },
-            {
-                "posx": 616,
-                "posy": 18,
-                "color": "pink"
-            },
-            {
-                "posx": 385,
-                "posy": 242,
-                "color": "blue"
-            },
-            {
-                "posx": 463,
-                "posy": 866,
-                "color": "pink"
-            },
-            {
-                "posx": 941,
-                "posy": 116,
-                "color": "black"
-            },
-            {
-                "posx": 11,
-                "posy": 652,
-                "color": "orange"
-            },
-            {
-                "posx": 331,
-                "posy": 77,
-                "color": "red"
-            }
-        ]
-    },
-    {
-        "posx": 139.72967151886155,
-        "posy": 325.11805158619256,
-        "radio": 30,
-        "direccion": 268,
-        "color": "orange",
-        "velocidad": 4,
-        "edad": 78,
-        "ciudad": "jaen",
-        "colorpelo": "rubio",
-        "profesion": "policia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 317,
-                "posy": 725,
-                "color": "red"
-            },
-            {
-                "posx": 818,
-                "posy": 397,
-                "color": "green"
-            },
-            {
-                "posx": 49,
+                "posx": 34,
                 "posy": 644,
                 "color": "yellow"
             },
             {
-                "posx": 618,
-                "posy": 282,
+                "posx": 413,
+                "posy": 1006,
+                "color": "black"
+            }
+        ]
+    },
+    {
+        "posx": 536.2239996855333,
+        "posy": 534.7712379455404,
+        "radio": 30,
+        "direccion": 71,
+        "color": "yellow",
+        "velocidad": 2,
+        "edad": 15,
+        "ciudad": "barcelona",
+        "colorpelo": "pelirrojo",
+        "profesion": "medicina",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 732,
+                "posy": 821,
                 "color": "pink"
             },
             {
-                "posx": 580,
-                "posy": 22,
+                "posx": 250,
+                "posy": 602,
+                "color": "blue"
+            },
+            {
+                "posx": 288,
+                "posy": 356,
+                "color": "green"
+            },
+            {
+                "posx": 379,
+                "posy": 333,
                 "color": "yellow"
             },
             {
-                "posx": 704,
-                "posy": 866,
+                "posx": 642,
+                "posy": 221,
+                "color": "yellow"
+            },
+            {
+                "posx": 21,
+                "posy": 977,
                 "color": "red"
             },
             {
-                "posx": 622,
-                "posy": 171,
-                "color": "orange"
+                "posx": 923,
+                "posy": 831,
+                "color": "black"
             },
             {
-                "posx": 729,
-                "posy": 395,
+                "posx": 0,
+                "posy": 168,
+                "color": "red"
+            },
+            {
+                "posx": 569,
+                "posy": 526,
                 "color": "purple"
             },
             {
-                "posx": 627,
-                "posy": 171,
+                "posx": 624,
+                "posy": 641,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 357.419189667645,
+        "posy": 441.24804313390814,
+        "radio": 30,
+        "direccion": 195,
+        "color": "orange",
+        "velocidad": 2,
+        "edad": 70,
+        "ciudad": "jaen",
+        "colorpelo": "pelirrojo",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 421,
+                "posy": 474,
+                "color": "red"
+            },
+            {
+                "posx": 542,
+                "posy": 300,
+                "color": "purple"
+            },
+            {
+                "posx": 241,
+                "posy": 416,
+                "color": "green"
+            },
+            {
+                "posx": 146,
+                "posy": 600,
+                "color": "orange"
+            },
+            {
+                "posx": 741,
+                "posy": 314,
+                "color": "black"
+            },
+            {
+                "posx": 688,
+                "posy": 608,
                 "color": "pink"
             },
             {
-                "posx": 614,
-                "posy": 699,
+                "posx": 311,
+                "posy": 302,
+                "color": "yellow"
+            },
+            {
+                "posx": 386,
+                "posy": 523,
+                "color": "black"
+            },
+            {
+                "posx": 153,
+                "posy": 61,
+                "color": "yellow"
+            },
+            {
+                "posx": 207,
+                "posy": 42,
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "posx": 38.64586682982813,
+        "posy": 459.56945935628124,
+        "radio": 30,
+        "direccion": 106.5711783089562,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 34,
+        "ciudad": "valencia",
+        "colorpelo": "rubio",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 171,
+                "posy": 410,
+                "color": "yellow"
+            },
+            {
+                "posx": 122,
+                "posy": 415,
+                "color": "red"
+            },
+            {
+                "posx": 951,
+                "posy": 206,
+                "color": "purple"
+            },
+            {
+                "posx": 631,
+                "posy": 926,
+                "color": "orange"
+            },
+            {
+                "posx": 740,
+                "posy": 444,
+                "color": "green"
+            },
+            {
+                "posx": 943,
+                "posy": 228,
+                "color": "blue"
+            },
+            {
+                "posx": 586,
+                "posy": 450,
+                "color": "pink"
+            },
+            {
+                "posx": 534,
+                "posy": 1016,
+                "color": "blue"
+            },
+            {
+                "posx": 400,
+                "posy": 137,
+                "color": "red"
+            },
+            {
+                "posx": 110,
+                "posy": 685,
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "posx": 932.5483944152984,
+        "posy": 388.9155479102059,
+        "radio": 30,
+        "direccion": 77,
+        "color": "red",
+        "velocidad": 1,
+        "edad": 21,
+        "ciudad": "madrid",
+        "colorpelo": "sin pelo",
+        "profesion": "policia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 814,
+                "posy": 709,
+                "color": "purple"
+            },
+            {
+                "posx": 220,
+                "posy": 147,
+                "color": "orange"
+            },
+            {
+                "posx": 87,
+                "posy": 889,
+                "color": "yellow"
+            },
+            {
+                "posx": 983,
+                "posy": 332,
+                "color": "red"
+            },
+            {
+                "posx": 817,
+                "posy": 417,
+                "color": "black"
+            },
+            {
+                "posx": 783,
+                "posy": 5,
+                "color": "blue"
+            },
+            {
+                "posx": 235,
+                "posy": 853,
+                "color": "red"
+            },
+            {
+                "posx": 875,
+                "posy": 807,
+                "color": "orange"
+            },
+            {
+                "posx": 159,
+                "posy": 784,
+                "color": "purple"
+            },
+            {
+                "posx": 764,
+                "posy": 403,
                 "color": "yellow"
             }
         ]
     },
     {
-        "posx": 220.05217006330713,
-        "posy": 198.09009059407353,
+        "posx": 241.74410258643198,
+        "posy": 240.03825622655413,
         "radio": 30,
-        "direccion": 132.92170409760706,
+        "direccion": 28,
         "color": "pink",
-        "velocidad": 2,
-        "edad": 20,
-        "ciudad": "barcelona",
+        "velocidad": 3,
+        "edad": 38,
+        "ciudad": "santander",
         "colorpelo": "pelirrojo",
-        "profesion": "policia",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 810,
-                "posy": 108,
-                "color": "blue"
+                "posx": 921,
+                "posy": 447,
+                "color": "green"
             },
             {
-                "posx": 333,
-                "posy": 695,
-                "color": "orange"
-            },
-            {
-                "posx": 816,
-                "posy": 201,
-                "color": "blue"
-            },
-            {
-                "posx": 225,
+                "posx": 145,
                 "posy": 530,
-                "color": "blue"
-            },
-            {
-                "posx": 95,
-                "posy": 541,
-                "color": "green"
-            },
-            {
-                "posx": 160,
-                "posy": 62,
-                "color": "green"
-            },
-            {
-                "posx": 974,
-                "posy": 919,
                 "color": "pink"
             },
             {
-                "posx": 7,
+                "posx": 93,
+                "posy": 447,
+                "color": "purple"
+            },
+            {
+                "posx": 385,
+                "posy": 439,
+                "color": "green"
+            },
+            {
+                "posx": 461,
+                "posy": 985,
+                "color": "purple"
+            },
+            {
+                "posx": 522,
+                "posy": 56,
+                "color": "black"
+            },
+            {
+                "posx": 624,
+                "posy": 165,
+                "color": "green"
+            },
+            {
+                "posx": 742,
+                "posy": 648,
+                "color": "pink"
+            },
+            {
+                "posx": 626,
+                "posy": 50,
+                "color": "blue"
+            },
+            {
+                "posx": 78,
+                "posy": 923,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 731.0590472908397,
+        "posy": 802.1496097030886,
+        "radio": 30,
+        "direccion": 299.1355866058294,
+        "color": "green",
+        "velocidad": 4,
+        "edad": 34,
+        "ciudad": "almeria",
+        "colorpelo": "rubio",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 356,
+                "posy": 580,
+                "color": "red"
+            },
+            {
+                "posx": 249,
+                "posy": 147,
+                "color": "black"
+            },
+            {
+                "posx": 330,
+                "posy": 492,
+                "color": "purple"
+            },
+            {
+                "posx": 399,
+                "posy": 871,
+                "color": "purple"
+            },
+            {
+                "posx": 379,
+                "posy": 760,
+                "color": "orange"
+            },
+            {
+                "posx": 911,
+                "posy": 80,
+                "color": "blue"
+            },
+            {
+                "posx": 111,
+                "posy": 432,
+                "color": "orange"
+            },
+            {
+                "posx": 95,
+                "posy": 281,
+                "color": "yellow"
+            },
+            {
+                "posx": 44,
+                "posy": 359,
+                "color": "yellow"
+            },
+            {
+                "posx": 743,
+                "posy": 968,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 944.2382772784476,
+        "posy": 722.9206698968638,
+        "radio": 30,
+        "direccion": 51,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 31,
+        "ciudad": "madrid",
+        "colorpelo": "pelirrojo",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 176,
+                "posy": 853,
+                "color": "pink"
+            },
+            {
+                "posx": 217,
+                "posy": 314,
+                "color": "red"
+            },
+            {
+                "posx": 561,
+                "posy": 349,
+                "color": "purple"
+            },
+            {
+                "posx": 903,
+                "posy": 629,
+                "color": "red"
+            },
+            {
+                "posx": 494,
+                "posy": 513,
+                "color": "orange"
+            },
+            {
+                "posx": 426,
+                "posy": 571,
+                "color": "black"
+            },
+            {
+                "posx": 301,
+                "posy": 765,
+                "color": "purple"
+            },
+            {
+                "posx": 185,
+                "posy": 990,
+                "color": "purple"
+            },
+            {
+                "posx": 252,
+                "posy": 69,
+                "color": "pink"
+            },
+            {
+                "posx": 73,
+                "posy": 3,
+                "color": "black"
+            }
+        ]
+    },
+    {
+        "posx": 516.5124689261986,
+        "posy": -34.38151677420385,
+        "radio": 30,
+        "direccion": 18.580965244224977,
+        "color": "blue",
+        "velocidad": 5,
+        "edad": 79,
+        "ciudad": "jaen",
+        "colorpelo": "rubio",
+        "profesion": "arquitectura",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 819,
+                "posy": 961,
+                "color": "black"
+            },
+            {
+                "posx": 258,
+                "posy": 308,
+                "color": "blue"
+            },
+            {
+                "posx": 640,
+                "posy": 654,
+                "color": "yellow"
+            },
+            {
+                "posx": 976,
+                "posy": 265,
+                "color": "orange"
+            },
+            {
+                "posx": 663,
+                "posy": 384,
+                "color": "yellow"
+            },
+            {
+                "posx": 1003,
+                "posy": 570,
+                "color": "green"
+            },
+            {
+                "posx": 559,
+                "posy": 823,
+                "color": "red"
+            },
+            {
+                "posx": 928,
+                "posy": 716,
+                "color": "purple"
+            },
+            {
+                "posx": 375,
+                "posy": 160,
+                "color": "blue"
+            },
+            {
+                "posx": 552,
+                "posy": 769,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 536.729629530866,
+        "posy": 11.370407055935653,
+        "radio": 30,
+        "direccion": 82.56168819925371,
+        "color": "black",
+        "velocidad": 1,
+        "edad": 75,
+        "ciudad": "granada",
+        "colorpelo": "moreno",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 770,
+                "posy": 581,
+                "color": "purple"
+            },
+            {
+                "posx": 835,
+                "posy": 491,
+                "color": "purple"
+            },
+            {
+                "posx": 341,
+                "posy": 24,
+                "color": "orange"
+            },
+            {
+                "posx": 766,
+                "posy": 65,
+                "color": "red"
+            },
+            {
+                "posx": 1003,
+                "posy": 309,
+                "color": "purple"
+            },
+            {
+                "posx": 519,
+                "posy": 2,
+                "color": "red"
+            },
+            {
+                "posx": 478,
+                "posy": 743,
+                "color": "pink"
+            },
+            {
+                "posx": 184,
+                "posy": 949,
+                "color": "blue"
+            },
+            {
+                "posx": 883,
+                "posy": 942,
+                "color": "orange"
+            },
+            {
+                "posx": 164,
+                "posy": 337,
+                "color": "black"
+            }
+        ]
+    },
+    {
+        "posx": 456.374299055413,
+        "posy": 1017.3322511309756,
+        "radio": 30,
+        "direccion": 143.61764041699615,
+        "color": "red",
+        "velocidad": 3,
+        "edad": 80,
+        "ciudad": "jaen",
+        "colorpelo": "sin pelo",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 789,
+                "posy": 912,
+                "color": "pink"
+            },
+            {
+                "posx": 807,
+                "posy": 22,
+                "color": "red"
+            },
+            {
+                "posx": 611,
+                "posy": 678,
+                "color": "purple"
+            },
+            {
+                "posx": 972,
+                "posy": 847,
+                "color": "blue"
+            },
+            {
+                "posx": 164,
+                "posy": 1015,
+                "color": "green"
+            },
+            {
+                "posx": 204,
+                "posy": 383,
+                "color": "yellow"
+            },
+            {
+                "posx": 437,
+                "posy": 66,
+                "color": "pink"
+            },
+            {
+                "posx": 576,
+                "posy": 52,
+                "color": "black"
+            },
+            {
+                "posx": 622,
+                "posy": 591,
+                "color": "red"
+            },
+            {
+                "posx": 928,
+                "posy": 907,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 396.07065752922085,
+        "posy": 321.09604657748787,
+        "radio": 30,
+        "direccion": 169,
+        "color": "green",
+        "velocidad": 2,
+        "edad": 5,
+        "ciudad": "granada",
+        "colorpelo": "canoso",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 139,
+                "posy": 66,
+                "color": "red"
+            },
+            {
+                "posx": 915,
+                "posy": 646,
+                "color": "red"
+            },
+            {
+                "posx": 772,
+                "posy": 940,
+                "color": "blue"
+            },
+            {
+                "posx": 714,
+                "posy": 624,
+                "color": "pink"
+            },
+            {
+                "posx": 988,
+                "posy": 663,
+                "color": "purple"
+            },
+            {
+                "posx": 477,
+                "posy": 407,
+                "color": "red"
+            },
+            {
+                "posx": 911,
+                "posy": 484,
+                "color": "black"
+            },
+            {
+                "posx": 785,
+                "posy": 843,
+                "color": "black"
+            },
+            {
+                "posx": 355,
+                "posy": 570,
+                "color": "red"
+            },
+            {
+                "posx": 780,
+                "posy": 62,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 566.8751294397971,
+        "posy": 940.6369184566429,
+        "radio": 30,
+        "direccion": 210,
+        "color": "green",
+        "velocidad": 2,
+        "edad": 68,
+        "ciudad": "barcelona",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 886,
+                "posy": 556,
+                "color": "green"
+            },
+            {
+                "posx": 752,
+                "posy": 289,
+                "color": "blue"
+            },
+            {
+                "posx": 45,
+                "posy": 248,
+                "color": "yellow"
+            },
+            {
+                "posx": 441,
+                "posy": 992,
+                "color": "blue"
+            },
+            {
+                "posx": 341,
+                "posy": 404,
+                "color": "yellow"
+            },
+            {
+                "posx": 705,
+                "posy": 373,
+                "color": "black"
+            },
+            {
+                "posx": 1012,
+                "posy": 1010,
+                "color": "green"
+            },
+            {
+                "posx": 725,
+                "posy": 743,
+                "color": "red"
+            },
+            {
+                "posx": 145,
+                "posy": 314,
+                "color": "green"
+            },
+            {
+                "posx": 967,
+                "posy": 324,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 143.99932334799274,
+        "posy": 422.9572156963459,
+        "radio": 30,
+        "direccion": 116,
+        "color": "purple",
+        "velocidad": 3,
+        "edad": 22,
+        "ciudad": "almeria",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 851,
+                "posy": 117,
+                "color": "pink"
+            },
+            {
+                "posx": 428,
+                "posy": 758,
+                "color": "orange"
+            },
+            {
+                "posx": 240,
+                "posy": 120,
+                "color": "orange"
+            },
+            {
+                "posx": 171,
+                "posy": 824,
+                "color": "green"
+            },
+            {
+                "posx": 162,
+                "posy": 366,
+                "color": "blue"
+            },
+            {
+                "posx": 369,
+                "posy": 612,
+                "color": "orange"
+            },
+            {
+                "posx": 595,
+                "posy": 724,
+                "color": "pink"
+            },
+            {
+                "posx": 878,
+                "posy": 622,
+                "color": "red"
+            },
+            {
+                "posx": 66,
+                "posy": 231,
+                "color": "pink"
+            },
+            {
+                "posx": 805,
+                "posy": 380,
+                "color": "black"
+            }
+        ]
+    },
+    {
+        "posx": 569.5729059977048,
+        "posy": 833.0650409888294,
+        "radio": 30,
+        "direccion": 158,
+        "color": "purple",
+        "velocidad": 1,
+        "edad": 20,
+        "ciudad": "bilbao",
+        "colorpelo": "pelirrojo",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 990,
+                "posy": 593,
+                "color": "green"
+            },
+            {
+                "posx": 716,
+                "posy": 272,
+                "color": "green"
+            },
+            {
+                "posx": 114,
+                "posy": 107,
+                "color": "red"
+            },
+            {
+                "posx": 1011,
+                "posy": 628,
+                "color": "green"
+            },
+            {
+                "posx": 301,
+                "posy": 537,
+                "color": "blue"
+            },
+            {
+                "posx": 47,
+                "posy": 671,
+                "color": "pink"
+            },
+            {
+                "posx": 485,
+                "posy": 26,
+                "color": "yellow"
+            },
+            {
+                "posx": 796,
+                "posy": 968,
+                "color": "purple"
+            },
+            {
+                "posx": 709,
+                "posy": 931,
+                "color": "pink"
+            },
+            {
+                "posx": 255,
+                "posy": 814,
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "posx": 695.2333369560888,
+        "posy": 22.829303896968955,
+        "radio": 30,
+        "direccion": 357,
+        "color": "blue",
+        "velocidad": 5,
+        "edad": 98,
+        "ciudad": "valencia",
+        "colorpelo": "pelirrojo",
+        "profesion": "policia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 499,
+                "posy": 780,
+                "color": "yellow"
+            },
+            {
+                "posx": 369,
+                "posy": 802,
+                "color": "blue"
+            },
+            {
+                "posx": 851,
+                "posy": 682,
+                "color": "blue"
+            },
+            {
+                "posx": 68,
+                "posy": 31,
+                "color": "orange"
+            },
+            {
+                "posx": 547,
+                "posy": 224,
+                "color": "blue"
+            },
+            {
+                "posx": 716,
+                "posy": 93,
+                "color": "black"
+            },
+            {
+                "posx": 18,
+                "posy": 617,
+                "color": "green"
+            },
+            {
+                "posx": 286,
+                "posy": 452,
+                "color": "green"
+            },
+            {
+                "posx": 47,
+                "posy": 860,
+                "color": "blue"
+            },
+            {
+                "posx": 316,
+                "posy": 73,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 968.3511967255345,
+        "posy": 830.9077763600344,
+        "radio": 30,
+        "direccion": 226,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 90,
+        "ciudad": "valencia",
+        "colorpelo": "moreno",
+        "profesion": "policia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 247,
+                "posy": 273,
+                "color": "black"
+            },
+            {
+                "posx": 746,
+                "posy": 79,
+                "color": "orange"
+            },
+            {
+                "posx": 554,
+                "posy": 914,
+                "color": "green"
+            },
+            {
+                "posx": 246,
+                "posy": 527,
+                "color": "black"
+            },
+            {
+                "posx": 312,
+                "posy": 684,
+                "color": "black"
+            },
+            {
+                "posx": 412,
+                "posy": 590,
+                "color": "purple"
+            },
+            {
+                "posx": 772,
+                "posy": 914,
+                "color": "green"
+            },
+            {
+                "posx": 951,
+                "posy": 645,
+                "color": "yellow"
+            },
+            {
+                "posx": 911,
+                "posy": 761,
+                "color": "yellow"
+            },
+            {
+                "posx": 397,
+                "posy": 346,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 492.9132051692208,
+        "posy": 83.42815224696258,
+        "radio": 30,
+        "direccion": 268,
+        "color": "black",
+        "velocidad": 4,
+        "edad": 7,
+        "ciudad": "madrid",
+        "colorpelo": "sin pelo",
+        "profesion": "policia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 17,
+                "posy": 71,
+                "color": "purple"
+            },
+            {
+                "posx": 241,
+                "posy": 715,
+                "color": "yellow"
+            },
+            {
+                "posx": 399,
+                "posy": 244,
+                "color": "black"
+            },
+            {
+                "posx": 457,
+                "posy": 395,
+                "color": "orange"
+            },
+            {
+                "posx": 959,
+                "posy": 270,
+                "color": "pink"
+            },
+            {
+                "posx": 41,
+                "posy": 222,
+                "color": "orange"
+            },
+            {
+                "posx": 439,
+                "posy": 696,
+                "color": "red"
+            },
+            {
+                "posx": 825,
+                "posy": 302,
+                "color": "blue"
+            },
+            {
+                "posx": 117,
+                "posy": 691,
+                "color": "red"
+            },
+            {
+                "posx": 511,
+                "posy": 142,
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "posx": 692.9357303061242,
+        "posy": 622.0875739805488,
+        "radio": 30,
+        "direccion": 186,
+        "color": "green",
+        "velocidad": 2,
+        "edad": 58,
+        "ciudad": "granada",
+        "colorpelo": "pelirrojo",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 109,
+                "posy": 870,
+                "color": "yellow"
+            },
+            {
+                "posx": 594,
+                "posy": 222,
+                "color": "red"
+            },
+            {
+                "posx": 275,
+                "posy": 11,
+                "color": "green"
+            },
+            {
+                "posx": 326,
+                "posy": 634,
+                "color": "purple"
+            },
+            {
+                "posx": 229,
+                "posy": 663,
+                "color": "red"
+            },
+            {
+                "posx": 623,
+                "posy": 799,
+                "color": "pink"
+            },
+            {
+                "posx": 675,
+                "posy": 56,
+                "color": "pink"
+            },
+            {
+                "posx": 145,
+                "posy": 650,
+                "color": "yellow"
+            },
+            {
+                "posx": 62,
+                "posy": 93,
+                "color": "pink"
+            },
+            {
+                "posx": 146,
+                "posy": 330,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 989.8469650931319,
+        "posy": 19.93864710505365,
+        "radio": 30,
+        "direccion": 92.42032198427256,
+        "color": "red",
+        "velocidad": 1,
+        "edad": 94,
+        "ciudad": "granada",
+        "colorpelo": "canoso",
+        "profesion": "arquitectura",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 651,
+                "posy": 982,
+                "color": "yellow"
+            },
+            {
+                "posx": 49,
+                "posy": 488,
+                "color": "red"
+            },
+            {
+                "posx": 1024,
+                "posy": 486,
+                "color": "yellow"
+            },
+            {
+                "posx": 265,
+                "posy": 249,
+                "color": "orange"
+            },
+            {
+                "posx": 172,
+                "posy": 120,
+                "color": "red"
+            },
+            {
+                "posx": 938,
+                "posy": 448,
+                "color": "blue"
+            },
+            {
+                "posx": 929,
+                "posy": 401,
+                "color": "orange"
+            },
+            {
+                "posx": 788,
+                "posy": 306,
+                "color": "blue"
+            },
+            {
+                "posx": 118,
+                "posy": 7,
+                "color": "green"
+            },
+            {
+                "posx": 319,
+                "posy": 561,
+                "color": "orange"
+            }
+        ]
+    },
+    {
+        "posx": 1006.9970898800796,
+        "posy": 921.5801161093829,
+        "radio": 30,
+        "direccion": 122.17555161980214,
+        "color": "orange",
+        "velocidad": 5,
+        "edad": 7,
+        "ciudad": "santander",
+        "colorpelo": "moreno",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 162,
+                "posy": 385,
+                "color": "orange"
+            },
+            {
+                "posx": 547,
+                "posy": 954,
+                "color": "green"
+            },
+            {
+                "posx": 292,
+                "posy": 757,
+                "color": "black"
+            },
+            {
+                "posx": 571,
+                "posy": 467,
+                "color": "purple"
+            },
+            {
+                "posx": 977,
+                "posy": 776,
+                "color": "orange"
+            },
+            {
+                "posx": 657,
+                "posy": 663,
+                "color": "yellow"
+            },
+            {
+                "posx": 911,
+                "posy": 315,
+                "color": "green"
+            },
+            {
+                "posx": 447,
+                "posy": 411,
+                "color": "green"
+            },
+            {
+                "posx": 574,
+                "posy": 646,
+                "color": "yellow"
+            },
+            {
+                "posx": 140,
+                "posy": 266,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 443.2640205245222,
+        "posy": 22.675474184312307,
+        "radio": 30,
+        "direccion": 300.57427473733827,
+        "color": "red",
+        "velocidad": 5,
+        "edad": 4,
+        "ciudad": "bilbao",
+        "colorpelo": "rubio",
+        "profesion": "policia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 77,
+                "posy": 474,
+                "color": "pink"
+            },
+            {
+                "posx": 395,
+                "posy": 549,
+                "color": "blue"
+            },
+            {
+                "posx": 27,
+                "posy": 693,
+                "color": "black"
+            },
+            {
+                "posx": 840,
+                "posy": 819,
+                "color": "black"
+            },
+            {
+                "posx": 817,
+                "posy": 328,
+                "color": "green"
+            },
+            {
+                "posx": 990,
+                "posy": 562,
+                "color": "red"
+            },
+            {
+                "posx": 308,
+                "posy": 927,
+                "color": "pink"
+            },
+            {
+                "posx": 309,
+                "posy": 721,
+                "color": "purple"
+            },
+            {
+                "posx": 936,
+                "posy": 521,
+                "color": "orange"
+            },
+            {
+                "posx": 984,
+                "posy": 545,
+                "color": "orange"
+            }
+        ]
+    },
+    {
+        "posx": 225.96262766067832,
+        "posy": 661.8987453161735,
+        "radio": 30,
+        "direccion": 292,
+        "color": "purple",
+        "velocidad": 2,
+        "edad": 58,
+        "ciudad": "valencia",
+        "colorpelo": "rubio",
+        "profesion": "arquitectura",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 432,
+                "posy": 602,
+                "color": "blue"
+            },
+            {
+                "posx": 1004,
+                "posy": 2,
+                "color": "pink"
+            },
+            {
+                "posx": 607,
+                "posy": 383,
+                "color": "red"
+            },
+            {
+                "posx": 355,
+                "posy": 240,
+                "color": "orange"
+            },
+            {
+                "posx": 481,
+                "posy": 948,
+                "color": "yellow"
+            },
+            {
+                "posx": 65,
+                "posy": 943,
+                "color": "red"
+            },
+            {
+                "posx": 55,
+                "posy": 807,
+                "color": "yellow"
+            },
+            {
+                "posx": 262,
+                "posy": 468,
+                "color": "pink"
+            },
+            {
+                "posx": 716,
+                "posy": 864,
+                "color": "pink"
+            },
+            {
+                "posx": 549,
+                "posy": 80,
+                "color": "orange"
+            }
+        ]
+    },
+    {
+        "posx": 634.4139417301976,
+        "posy": 136.18706856064273,
+        "radio": 30,
+        "direccion": 250,
+        "color": "orange",
+        "velocidad": 1,
+        "edad": 41,
+        "ciudad": "valencia",
+        "colorpelo": "pelirrojo",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 380,
+                "posy": 323,
+                "color": "orange"
+            },
+            {
+                "posx": 506,
+                "posy": 494,
+                "color": "black"
+            },
+            {
+                "posx": 484,
+                "posy": 813,
+                "color": "red"
+            },
+            {
+                "posx": 881,
+                "posy": 1000,
+                "color": "orange"
+            },
+            {
+                "posx": 829,
+                "posy": 385,
+                "color": "red"
+            },
+            {
+                "posx": 486,
+                "posy": 998,
+                "color": "red"
+            },
+            {
+                "posx": 944,
+                "posy": 304,
+                "color": "red"
+            },
+            {
+                "posx": 918,
+                "posy": 820,
+                "color": "pink"
+            },
+            {
+                "posx": 76,
+                "posy": 936,
+                "color": "yellow"
+            },
+            {
+                "posx": 83,
+                "posy": 144,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 478.8159804533928,
+        "posy": 832.3834957029139,
+        "radio": 30,
+        "direccion": 147,
+        "color": "red",
+        "velocidad": 2,
+        "edad": 50,
+        "ciudad": "madrid",
+        "colorpelo": "rubio",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 925,
+                "posy": 804,
+                "color": "green"
+            },
+            {
+                "posx": 848,
+                "posy": 698,
+                "color": "orange"
+            },
+            {
+                "posx": 295,
+                "posy": 112,
+                "color": "black"
+            },
+            {
+                "posx": 193,
+                "posy": 240,
+                "color": "purple"
+            },
+            {
+                "posx": 280,
+                "posy": 6,
+                "color": "black"
+            },
+            {
+                "posx": 431,
+                "posy": 425,
+                "color": "pink"
+            },
+            {
+                "posx": 872,
+                "posy": 595,
+                "color": "green"
+            },
+            {
+                "posx": 806,
+                "posy": 3,
+                "color": "blue"
+            },
+            {
+                "posx": 424,
+                "posy": 613,
+                "color": "green"
+            },
+            {
+                "posx": 459,
+                "posy": 734,
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "posx": 963.8933011874508,
+        "posy": 843.6382302405983,
+        "radio": 30,
+        "direccion": 109.71848214273285,
+        "color": "green",
+        "velocidad": 1,
+        "edad": 84,
+        "ciudad": "granada",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 278,
+                "posy": 650,
+                "color": "green"
+            },
+            {
+                "posx": 6,
+                "posy": 551,
+                "color": "blue"
+            },
+            {
+                "posx": 845,
+                "posy": 436,
+                "color": "yellow"
+            },
+            {
+                "posx": 693,
+                "posy": 774,
+                "color": "blue"
+            },
+            {
+                "posx": 398,
+                "posy": 308,
+                "color": "yellow"
+            },
+            {
+                "posx": 279,
+                "posy": 770,
+                "color": "black"
+            },
+            {
+                "posx": 527,
+                "posy": 869,
+                "color": "pink"
+            },
+            {
+                "posx": 940,
+                "posy": 279,
+                "color": "pink"
+            },
+            {
+                "posx": 925,
+                "posy": 785,
+                "color": "red"
+            },
+            {
+                "posx": 704,
+                "posy": 174,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 159.22527465685468,
+        "posy": 878.4495547071468,
+        "radio": 30,
+        "direccion": 137.24120164334744,
+        "color": "pink",
+        "velocidad": 3,
+        "edad": 5,
+        "ciudad": "barcelona",
+        "colorpelo": "sin pelo",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 589,
+                "posy": 530,
+                "color": "green"
+            },
+            {
+                "posx": 856,
+                "posy": 1003,
+                "color": "red"
+            },
+            {
+                "posx": 488,
+                "posy": 915,
+                "color": "purple"
+            },
+            {
+                "posx": 91,
+                "posy": 796,
+                "color": "black"
+            },
+            {
+                "posx": 17,
+                "posy": 661,
+                "color": "blue"
+            },
+            {
+                "posx": 274,
+                "posy": 435,
+                "color": "red"
+            },
+            {
+                "posx": 402,
+                "posy": 423,
+                "color": "blue"
+            },
+            {
+                "posx": 474,
+                "posy": 992,
+                "color": "black"
+            },
+            {
+                "posx": 238,
+                "posy": 780,
+                "color": "yellow"
+            },
+            {
+                "posx": 271,
+                "posy": 858,
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "posx": 621.879492441725,
+        "posy": -74.88388784919323,
+        "radio": 30,
+        "direccion": 171.43593469028735,
+        "color": "pink",
+        "velocidad": 5,
+        "edad": 62,
+        "ciudad": "barcelona",
+        "colorpelo": "pelirrojo",
+        "profesion": "medicina",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 936,
+                "posy": 942,
+                "color": "blue"
+            },
+            {
+                "posx": 10,
+                "posy": 564,
+                "color": "purple"
+            },
+            {
+                "posx": 458,
+                "posy": 932,
+                "color": "pink"
+            },
+            {
+                "posx": 941,
+                "posy": 758,
+                "color": "orange"
+            },
+            {
+                "posx": 587,
+                "posy": 927,
+                "color": "yellow"
+            },
+            {
+                "posx": 855,
+                "posy": 597,
+                "color": "yellow"
+            },
+            {
+                "posx": 736,
+                "posy": 816,
+                "color": "green"
+            },
+            {
+                "posx": 823,
+                "posy": 196,
+                "color": "red"
+            },
+            {
+                "posx": 27,
+                "posy": 681,
+                "color": "pink"
+            },
+            {
+                "posx": 673,
+                "posy": 603,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 315.31829915773096,
+        "posy": 851.3768638574169,
+        "radio": 30,
+        "direccion": 362.38994055685254,
+        "color": "red",
+        "velocidad": 4,
+        "edad": 64,
+        "ciudad": "almeria",
+        "colorpelo": "canoso",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 634,
+                "posy": 954,
+                "color": "pink"
+            },
+            {
+                "posx": 291,
+                "posy": 592,
+                "color": "yellow"
+            },
+            {
+                "posx": 382,
+                "posy": 338,
+                "color": "green"
+            },
+            {
+                "posx": 133,
+                "posy": 486,
+                "color": "green"
+            },
+            {
+                "posx": 280,
+                "posy": 10,
+                "color": "green"
+            },
+            {
+                "posx": 342,
+                "posy": 666,
+                "color": "orange"
+            },
+            {
+                "posx": 592,
+                "posy": 931,
+                "color": "blue"
+            },
+            {
+                "posx": 277,
+                "posy": 334,
+                "color": "black"
+            },
+            {
+                "posx": 584,
+                "posy": 913,
+                "color": "black"
+            },
+            {
+                "posx": 332,
+                "posy": 205,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 571.7095948338228,
+        "posy": 103.62402156695407,
+        "radio": 30,
+        "direccion": 195,
+        "color": "orange",
+        "velocidad": 1,
+        "edad": 49,
+        "ciudad": "granada",
+        "colorpelo": "rubio",
+        "profesion": "medicina",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 964,
+                "posy": 257,
+                "color": "green"
+            },
+            {
+                "posx": 776,
+                "posy": 69,
+                "color": "purple"
+            },
+            {
+                "posx": 13,
+                "posy": 334,
+                "color": "black"
+            },
+            {
+                "posx": 754,
+                "posy": 795,
+                "color": "pink"
+            },
+            {
+                "posx": 566,
+                "posy": 215,
+                "color": "yellow"
+            },
+            {
+                "posx": 412,
+                "posy": 738,
+                "color": "red"
+            },
+            {
+                "posx": 531,
+                "posy": 248,
+                "color": "purple"
+            },
+            {
+                "posx": 573,
+                "posy": 104,
+                "color": "black"
+            },
+            {
+                "posx": 679,
+                "posy": 191,
+                "color": "blue"
+            },
+            {
+                "posx": 199,
+                "posy": 378,
+                "color": "orange"
+            }
+        ]
+    },
+    {
+        "posx": 965.8674514674676,
+        "posy": 670.1023431364902,
+        "radio": 30,
+        "direccion": 93,
+        "color": "yellow",
+        "velocidad": 1,
+        "edad": 30,
+        "ciudad": "granada",
+        "colorpelo": "pelirrojo",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 696,
+                "posy": 238,
+                "color": "yellow"
+            },
+            {
+                "posx": 709,
+                "posy": 725,
+                "color": "purple"
+            },
+            {
+                "posx": 21,
+                "posy": 349,
+                "color": "orange"
+            },
+            {
+                "posx": 12,
+                "posy": 238,
+                "color": "purple"
+            },
+            {
+                "posx": 459,
+                "posy": 635,
+                "color": "pink"
+            },
+            {
+                "posx": 518,
+                "posy": 581,
+                "color": "red"
+            },
+            {
+                "posx": 139,
+                "posy": 272,
+                "color": "blue"
+            },
+            {
+                "posx": 428,
+                "posy": 557,
+                "color": "green"
+            },
+            {
+                "posx": 377,
+                "posy": 280,
+                "color": "orange"
+            },
+            {
+                "posx": 54,
+                "posy": 66,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 678.2948745322109,
+        "posy": 622.341440071295,
+        "radio": 30,
+        "direccion": 300.69040952798724,
+        "color": "blue",
+        "velocidad": 4,
+        "edad": 72,
+        "ciudad": "almeria",
+        "colorpelo": "moreno",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 788,
+                "posy": 891,
+                "color": "pink"
+            },
+            {
+                "posx": 712,
+                "posy": 541,
+                "color": "black"
+            },
+            {
+                "posx": 237,
+                "posy": 793,
+                "color": "blue"
+            },
+            {
+                "posx": 1001,
+                "posy": 301,
+                "color": "purple"
+            },
+            {
+                "posx": 56,
+                "posy": 430,
+                "color": "red"
+            },
+            {
+                "posx": 519,
+                "posy": 705,
+                "color": "purple"
+            },
+            {
+                "posx": 380,
+                "posy": 151,
+                "color": "orange"
+            },
+            {
+                "posx": 794,
+                "posy": 11,
+                "color": "red"
+            },
+            {
+                "posx": 617,
+                "posy": 747,
+                "color": "green"
+            },
+            {
+                "posx": 130,
+                "posy": 594,
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "posx": 1005.1831732178186,
+        "posy": 623.7788420100339,
+        "radio": 30,
+        "direccion": 41.400688411714576,
+        "color": "pink",
+        "velocidad": 3,
+        "edad": 32,
+        "ciudad": "almeria",
+        "colorpelo": "rubio",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 532,
+                "posy": 291,
+                "color": "green"
+            },
+            {
+                "posx": 162,
+                "posy": 166,
+                "color": "purple"
+            },
+            {
+                "posx": 914,
+                "posy": 364,
+                "color": "orange"
+            },
+            {
+                "posx": 1002,
+                "posy": 546,
+                "color": "green"
+            },
+            {
+                "posx": 975,
+                "posy": 925,
+                "color": "blue"
+            },
+            {
+                "posx": 670,
+                "posy": 179,
+                "color": "purple"
+            },
+            {
+                "posx": 128,
+                "posy": 15,
+                "color": "pink"
+            },
+            {
+                "posx": 15,
+                "posy": 779,
+                "color": "purple"
+            },
+            {
+                "posx": 345,
+                "posy": 788,
+                "color": "yellow"
+            },
+            {
+                "posx": 239,
+                "posy": 284,
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "posx": 267.7744811771186,
+        "posy": 47.307719089155384,
+        "radio": 30,
+        "direccion": 139.63029242323663,
+        "color": "yellow",
+        "velocidad": 2,
+        "edad": 61,
+        "ciudad": "bilbao",
+        "colorpelo": "rubio",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 549,
+                "posy": 553,
+                "color": "yellow"
+            },
+            {
+                "posx": 49,
+                "posy": 77,
+                "color": "green"
+            },
+            {
+                "posx": 85,
+                "posy": 893,
+                "color": "green"
+            },
+            {
+                "posx": 717,
+                "posy": 668,
+                "color": "orange"
+            },
+            {
+                "posx": 854,
+                "posy": 838,
+                "color": "purple"
+            },
+            {
+                "posx": 232,
+                "posy": 760,
+                "color": "pink"
+            },
+            {
+                "posx": 361,
+                "posy": 216,
+                "color": "red"
+            },
+            {
+                "posx": 1013,
+                "posy": 229,
+                "color": "green"
+            },
+            {
+                "posx": 4,
+                "posy": 215,
+                "color": "blue"
+            },
+            {
+                "posx": 730,
+                "posy": 83,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 699.769704341621,
+        "posy": 336.58182298353313,
+        "radio": 30,
+        "direccion": 212,
+        "color": "yellow",
+        "velocidad": 2,
+        "edad": 56,
+        "ciudad": "jaen",
+        "colorpelo": "pelirrojo",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 10,
+                "posy": 510,
+                "color": "red"
+            },
+            {
+                "posx": 386,
+                "posy": 417,
+                "color": "pink"
+            },
+            {
+                "posx": 864,
+                "posy": 635,
+                "color": "red"
+            },
+            {
+                "posx": 653,
+                "posy": 449,
+                "color": "orange"
+            },
+            {
+                "posx": 555,
+                "posy": 452,
+                "color": "blue"
+            },
+            {
+                "posx": 767,
+                "posy": 435,
+                "color": "blue"
+            },
+            {
+                "posx": 896,
+                "posy": 556,
+                "color": "blue"
+            },
+            {
+                "posx": 836,
+                "posy": 657,
+                "color": "pink"
+            },
+            {
+                "posx": 664,
+                "posy": 886,
+                "color": "black"
+            },
+            {
+                "posx": 342,
+                "posy": 991,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 817.1562991204792,
+        "posy": 64.93393397141051,
+        "radio": 30,
+        "direccion": 320,
+        "color": "black",
+        "velocidad": 3,
+        "edad": 89,
+        "ciudad": "granada",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 116,
+                "posy": 39,
+                "color": "orange"
+            },
+            {
+                "posx": 973,
+                "posy": 401,
+                "color": "red"
+            },
+            {
+                "posx": 626,
+                "posy": 623,
+                "color": "red"
+            },
+            {
+                "posx": 290,
+                "posy": 440,
+                "color": "yellow"
+            },
+            {
+                "posx": 168,
+                "posy": 687,
+                "color": "black"
+            },
+            {
+                "posx": 578,
+                "posy": 219,
+                "color": "purple"
+            },
+            {
+                "posx": 422,
+                "posy": 868,
+                "color": "green"
+            },
+            {
+                "posx": 175,
+                "posy": 975,
+                "color": "yellow"
+            },
+            {
+                "posx": 137,
+                "posy": 232,
+                "color": "blue"
+            },
+            {
+                "posx": 509,
+                "posy": 735,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 84.40191828158605,
+        "posy": 151.55727654652364,
+        "radio": 30,
+        "direccion": 323.1405959232705,
+        "color": "red",
+        "velocidad": 3,
+        "edad": 88,
+        "ciudad": "valencia",
+        "colorpelo": "pelirrojo",
+        "profesion": "arquitectura",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 788,
+                "posy": 597,
+                "color": "red"
+            },
+            {
+                "posx": 436,
+                "posy": 327,
+                "color": "black"
+            },
+            {
+                "posx": 898,
+                "posy": 20,
+                "color": "orange"
+            },
+            {
+                "posx": 721,
+                "posy": 271,
+                "color": "orange"
+            },
+            {
+                "posx": 153,
+                "posy": 1018,
+                "color": "green"
+            },
+            {
+                "posx": 368,
+                "posy": 992,
+                "color": "orange"
+            },
+            {
+                "posx": 735,
+                "posy": 271,
+                "color": "red"
+            },
+            {
+                "posx": 234,
+                "posy": 329,
+                "color": "yellow"
+            },
+            {
+                "posx": 124,
+                "posy": 259,
+                "color": "red"
+            },
+            {
+                "posx": 708,
+                "posy": 181,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 329.5012617877337,
+        "posy": 120.41332274403713,
+        "radio": 30,
+        "direccion": 60,
+        "color": "blue",
+        "velocidad": 4,
+        "edad": 60,
+        "ciudad": "barcelona",
+        "colorpelo": "moreno",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 714,
+                "posy": 112,
+                "color": "purple"
+            },
+            {
+                "posx": 738,
+                "posy": 809,
+                "color": "blue"
+            },
+            {
+                "posx": 944,
+                "posy": 457,
+                "color": "blue"
+            },
+            {
+                "posx": 703,
+                "posy": 641,
+                "color": "red"
+            },
+            {
+                "posx": 741,
+                "posy": 88,
+                "color": "orange"
+            },
+            {
+                "posx": 368,
+                "posy": 819,
+                "color": "yellow"
+            },
+            {
+                "posx": 117,
+                "posy": 880,
+                "color": "yellow"
+            },
+            {
+                "posx": 387,
+                "posy": 100,
+                "color": "red"
+            },
+            {
+                "posx": 657,
+                "posy": 1016,
+                "color": "green"
+            },
+            {
+                "posx": 917,
+                "posy": 426,
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "posx": 971.4783906255689,
+        "posy": 460.4469217940175,
+        "radio": 30,
+        "direccion": 36,
+        "color": "purple",
+        "velocidad": 1,
+        "edad": 24,
+        "ciudad": "madrid",
+        "colorpelo": "moreno",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 409,
+                "posy": 660,
+                "color": "pink"
+            },
+            {
+                "posx": 74,
+                "posy": 268,
+                "color": "black"
+            },
+            {
+                "posx": 966,
+                "posy": 1017,
+                "color": "orange"
+            },
+            {
+                "posx": 856,
+                "posy": 54,
+                "color": "green"
+            },
+            {
+                "posx": 795,
+                "posy": 686,
+                "color": "black"
+            },
+            {
+                "posx": 700,
+                "posy": 953,
+                "color": "yellow"
+            },
+            {
+                "posx": 624,
+                "posy": 995,
+                "color": "blue"
+            },
+            {
+                "posx": 128,
+                "posy": 358,
+                "color": "orange"
+            },
+            {
+                "posx": 833,
+                "posy": 311,
+                "color": "black"
+            },
+            {
+                "posx": 404,
+                "posy": 446,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 399.87779740399066,
+        "posy": 179.7000291126255,
+        "radio": 30,
+        "direccion": 12.154833388182475,
+        "color": "green",
+        "velocidad": 5,
+        "edad": 86,
+        "ciudad": "bilbao",
+        "colorpelo": "pelirrojo",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 430,
+                "posy": 653,
+                "color": "blue"
+            },
+            {
+                "posx": 339,
+                "posy": 398,
+                "color": "red"
+            },
+            {
+                "posx": 547,
+                "posy": 440,
+                "color": "red"
+            },
+            {
+                "posx": 160,
+                "posy": 247,
+                "color": "black"
+            },
+            {
+                "posx": 176,
+                "posy": 735,
+                "color": "red"
+            },
+            {
+                "posx": 784,
+                "posy": 734,
+                "color": "green"
+            },
+            {
+                "posx": 391,
+                "posy": 489,
+                "color": "green"
+            },
+            {
+                "posx": 61,
                 "posy": 321,
+                "color": "red"
+            },
+            {
+                "posx": 766,
+                "posy": 14,
+                "color": "orange"
+            },
+            {
+                "posx": 942,
+                "posy": 250,
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "posx": 680.7016225612697,
+        "posy": 852.4546902686143,
+        "radio": 30,
+        "direccion": 340,
+        "color": "black",
+        "velocidad": 1,
+        "edad": 27,
+        "ciudad": "santander",
+        "colorpelo": "sin pelo",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 612,
+                "posy": 918,
+                "color": "orange"
+            },
+            {
+                "posx": 983,
+                "posy": 575,
+                "color": "red"
+            },
+            {
+                "posx": 636,
+                "posy": 872,
+                "color": "yellow"
+            },
+            {
+                "posx": 114,
+                "posy": 793,
+                "color": "orange"
+            },
+            {
+                "posx": 372,
+                "posy": 679,
+                "color": "yellow"
+            },
+            {
+                "posx": 421,
+                "posy": 221,
+                "color": "pink"
+            },
+            {
+                "posx": 162,
+                "posy": 988,
+                "color": "blue"
+            },
+            {
+                "posx": 233,
+                "posy": 772,
+                "color": "purple"
+            },
+            {
+                "posx": 594,
+                "posy": 384,
+                "color": "pink"
+            },
+            {
+                "posx": 1005,
+                "posy": 672,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 591.9799409009269,
+        "posy": 914.6457446339718,
+        "radio": 30,
+        "direccion": 6,
+        "color": "orange",
+        "velocidad": 2,
+        "edad": 88,
+        "ciudad": "granada",
+        "colorpelo": "pelirrojo",
+        "profesion": "medicina",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 401,
+                "posy": 1010,
+                "color": "black"
+            },
+            {
+                "posx": 932,
+                "posy": 571,
+                "color": "orange"
+            },
+            {
+                "posx": 661,
+                "posy": 901,
+                "color": "orange"
+            },
+            {
+                "posx": 454,
+                "posy": 234,
+                "color": "blue"
+            },
+            {
+                "posx": 740,
+                "posy": 0,
+                "color": "orange"
+            },
+            {
+                "posx": 740,
+                "posy": 199,
+                "color": "yellow"
+            },
+            {
+                "posx": 920,
+                "posy": 282,
+                "color": "orange"
+            },
+            {
+                "posx": 684,
+                "posy": 921,
+                "color": "yellow"
+            },
+            {
+                "posx": 303,
+                "posy": 845,
+                "color": "black"
+            },
+            {
+                "posx": 780,
+                "posy": 368,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 40.074146420479025,
+        "posy": 161.4913983084406,
+        "radio": 30,
+        "direccion": 341.8146656972784,
+        "color": "yellow",
+        "velocidad": 4,
+        "edad": 3,
+        "ciudad": "madrid",
+        "colorpelo": "canoso",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 115,
+                "posy": 887,
+                "color": "orange"
+            },
+            {
+                "posx": 43,
+                "posy": 683,
+                "color": "yellow"
+            },
+            {
+                "posx": 530,
+                "posy": 57,
+                "color": "black"
+            },
+            {
+                "posx": 410,
+                "posy": 435,
+                "color": "black"
+            },
+            {
+                "posx": 186,
+                "posy": 858,
+                "color": "black"
+            },
+            {
+                "posx": 840,
+                "posy": 1000,
+                "color": "purple"
+            },
+            {
+                "posx": 353,
+                "posy": 356,
+                "color": "purple"
+            },
+            {
+                "posx": 963,
+                "posy": 714,
+                "color": "black"
+            },
+            {
+                "posx": 111,
+                "posy": 844,
+                "color": "blue"
+            },
+            {
+                "posx": 165,
+                "posy": 834,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 31.725408404107082,
+        "posy": 102.52292743465068,
+        "radio": 30,
+        "direccion": 124.57087370020439,
+        "color": "black",
+        "velocidad": 1,
+        "edad": 97,
+        "ciudad": "valencia",
+        "colorpelo": "sin pelo",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 1023,
+                "posy": 265,
+                "color": "yellow"
+            },
+            {
+                "posx": 814,
+                "posy": 960,
+                "color": "pink"
+            },
+            {
+                "posx": 966,
+                "posy": 44,
+                "color": "blue"
+            },
+            {
+                "posx": 789,
+                "posy": 794,
+                "color": "red"
+            },
+            {
+                "posx": 774,
+                "posy": 405,
+                "color": "purple"
+            },
+            {
+                "posx": 752,
+                "posy": 679,
+                "color": "orange"
+            },
+            {
+                "posx": 284,
+                "posy": 434,
+                "color": "purple"
+            },
+            {
+                "posx": 587,
+                "posy": 1002,
+                "color": "pink"
+            },
+            {
+                "posx": 936,
+                "posy": 938,
+                "color": "pink"
+            },
+            {
+                "posx": 405,
+                "posy": 695,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 54.13482845708977,
+        "posy": 328.8847623586107,
+        "radio": 30,
+        "direccion": 99.57356337398687,
+        "color": "blue",
+        "velocidad": 4,
+        "edad": 40,
+        "ciudad": "santander",
+        "colorpelo": "rubio",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 153,
+                "posy": 948,
+                "color": "blue"
+            },
+            {
+                "posx": 380,
+                "posy": 942,
+                "color": "red"
+            },
+            {
+                "posx": 142,
+                "posy": 637,
+                "color": "red"
+            },
+            {
+                "posx": 859,
+                "posy": 373,
+                "color": "black"
+            },
+            {
+                "posx": 791,
+                "posy": 107,
+                "color": "red"
+            },
+            {
+                "posx": 238,
+                "posy": 680,
+                "color": "blue"
+            },
+            {
+                "posx": 209,
+                "posy": 305,
+                "color": "purple"
+            },
+            {
+                "posx": 643,
+                "posy": 704,
+                "color": "red"
+            },
+            {
+                "posx": 106,
+                "posy": 327,
+                "color": "yellow"
+            },
+            {
+                "posx": 347,
+                "posy": 152,
+                "color": "orange"
+            }
+        ]
+    },
+    {
+        "posx": 446.72011313331916,
+        "posy": 125.03322825028982,
+        "radio": 30,
+        "direccion": 38.41541354386389,
+        "color": "pink",
+        "velocidad": 5,
+        "edad": 54,
+        "ciudad": "barcelona",
+        "colorpelo": "rubio",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 968,
+                "posy": 1006,
+                "color": "blue"
+            },
+            {
+                "posx": 416,
+                "posy": 140,
+                "color": "orange"
+            },
+            {
+                "posx": 864,
+                "posy": 427,
+                "color": "red"
+            },
+            {
+                "posx": 120,
+                "posy": 437,
+                "color": "orange"
+            },
+            {
+                "posx": 571,
+                "posy": 742,
+                "color": "black"
+            },
+            {
+                "posx": 888,
+                "posy": 171,
+                "color": "purple"
+            },
+            {
+                "posx": 358,
+                "posy": 243,
+                "color": "green"
+            },
+            {
+                "posx": 336,
+                "posy": 551,
+                "color": "yellow"
+            },
+            {
+                "posx": 240,
+                "posy": 476,
+                "color": "orange"
+            },
+            {
+                "posx": 314,
+                "posy": 229,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 799.0434987464045,
+        "posy": 890.3198240484892,
+        "radio": 30,
+        "direccion": 18.402610557928085,
+        "color": "orange",
+        "velocidad": 5,
+        "edad": 7,
+        "ciudad": "granada",
+        "colorpelo": "sin pelo",
+        "profesion": "docencia",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 449,
+                "posy": 338,
+                "color": "black"
+            },
+            {
+                "posx": 165,
+                "posy": 743,
+                "color": "black"
+            },
+            {
+                "posx": 191,
+                "posy": 344,
+                "color": "red"
+            },
+            {
+                "posx": 812,
+                "posy": 653,
                 "color": "green"
             },
             {
                 "posx": 805,
-                "posy": 282,
-                "color": "pink"
+                "posy": 983,
+                "color": "green"
             },
             {
-                "posx": 927,
-                "posy": 321,
+                "posx": 965,
+                "posy": 803,
                 "color": "green"
+            },
+            {
+                "posx": 491,
+                "posy": 314,
+                "color": "green"
+            },
+            {
+                "posx": 825,
+                "posy": 186,
+                "color": "purple"
+            },
+            {
+                "posx": 250,
+                "posy": 348,
+                "color": "purple"
+            },
+            {
+                "posx": 177,
+                "posy": 717,
+                "color": "pink"
             }
         ]
     },
     {
-        "posx": 139.11680867769496,
-        "posy": 398.2060049377188,
+        "posx": 420.975989844357,
+        "posy": -47.69057582488929,
         "radio": 30,
-        "direccion": 14,
-        "color": "blue",
-        "velocidad": 1,
-        "edad": 42,
-        "ciudad": "bilbao",
-        "colorpelo": "pelirrojo",
-        "profesion": "medicina",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
-        "inventario": [
-            {
-                "posx": 84,
-                "posy": 202,
-                "color": "red"
-            },
-            {
-                "posx": 646,
-                "posy": 825,
-                "color": "black"
-            },
-            {
-                "posx": 802,
-                "posy": 554,
-                "color": "pink"
-            },
-            {
-                "posx": 148,
-                "posy": 198,
-                "color": "orange"
-            },
-            {
-                "posx": 252,
-                "posy": 282,
-                "color": "blue"
-            },
-            {
-                "posx": 390,
-                "posy": 282,
-                "color": "blue"
-            },
-            {
-                "posx": 392,
-                "posy": 25,
-                "color": "green"
-            },
-            {
-                "posx": 839,
-                "posy": 999,
-                "color": "red"
-            },
-            {
-                "posx": 138,
-                "posy": 334,
-                "color": "green"
-            },
-            {
-                "posx": 668,
-                "posy": 421,
-                "color": "black"
-            }
-        ]
-    },
-    {
-        "posx": 879.1020371918289,
-        "posy": 79.31774301999948,
-        "radio": 30,
-        "direccion": 189.15503792164057,
+        "direccion": 121.47674688319884,
         "color": "yellow",
         "velocidad": 2,
-        "edad": 15,
-        "ciudad": "jaen",
-        "colorpelo": "rubio",
-        "profesion": "hosteleria",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "edad": 45,
+        "ciudad": "granada",
+        "colorpelo": "sin pelo",
+        "profesion": "derecho",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 920,
-                "posy": 222,
-                "color": "pink"
+                "posx": 463,
+                "posy": 847,
+                "color": "blue"
             },
             {
-                "posx": 241,
-                "posy": 339,
+                "posx": 164,
+                "posy": 251,
+                "color": "yellow"
+            },
+            {
+                "posx": 415,
+                "posy": 975,
+                "color": "green"
+            },
+            {
+                "posx": 1017,
+                "posy": 957,
+                "color": "green"
+            },
+            {
+                "posx": 672,
+                "posy": 245,
                 "color": "red"
             },
             {
-                "posx": 281,
-                "posy": 59,
-                "color": "yellow"
-            },
-            {
-                "posx": 802,
-                "posy": 811,
-                "color": "green"
-            },
-            {
-                "posx": 28,
-                "posy": 408,
-                "color": "green"
-            },
-            {
-                "posx": 165,
-                "posy": 357,
-                "color": "yellow"
-            },
-            {
-                "posx": 534,
-                "posy": 712,
-                "color": "purple"
-            },
-            {
-                "posx": 448,
-                "posy": 603,
+                "posx": 722,
+                "posy": 433,
                 "color": "black"
             },
             {
-                "posx": 96,
-                "posy": 376,
+                "posx": 636,
+                "posy": 597,
+                "color": "blue"
+            },
+            {
+                "posx": 34,
+                "posy": 886,
+                "color": "yellow"
+            },
+            {
+                "posx": 701,
+                "posy": 228,
+                "color": "green"
+            },
+            {
+                "posx": 236,
+                "posy": 983,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 136.44277684264532,
+        "posy": 338.13041773033586,
+        "radio": 30,
+        "direccion": 23,
+        "color": "purple",
+        "velocidad": 2,
+        "edad": 60,
+        "ciudad": "barcelona",
+        "colorpelo": "rubio",
+        "profesion": "medicina",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 35,
+                "posy": 125,
                 "color": "purple"
             },
             {
-                "posx": 971,
-                "posy": 820,
+                "posx": 192,
+                "posy": 759,
+                "color": "purple"
+            },
+            {
+                "posx": 592,
+                "posy": 55,
+                "color": "pink"
+            },
+            {
+                "posx": 227,
+                "posy": 261,
+                "color": "green"
+            },
+            {
+                "posx": 193,
+                "posy": 343,
+                "color": "blue"
+            },
+            {
+                "posx": 960,
+                "posy": 578,
+                "color": "black"
+            },
+            {
+                "posx": 356,
+                "posy": 367,
+                "color": "orange"
+            },
+            {
+                "posx": 922,
+                "posy": 248,
+                "color": "yellow"
+            },
+            {
+                "posx": 858,
+                "posy": 783,
+                "color": "orange"
+            },
+            {
+                "posx": 656,
+                "posy": 43,
+                "color": "pink"
+            }
+        ]
+    },
+    {
+        "posx": 540.2375544985225,
+        "posy": 596.9065182031045,
+        "radio": 30,
+        "direccion": 178,
+        "color": "orange",
+        "velocidad": 2,
+        "edad": 18,
+        "ciudad": "santander",
+        "colorpelo": "moreno",
+        "profesion": "hosteleria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 910,
+                "posy": 573,
+                "color": "red"
+            },
+            {
+                "posx": 554,
+                "posy": 129,
+                "color": "orange"
+            },
+            {
+                "posx": 740,
+                "posy": 883,
+                "color": "purple"
+            },
+            {
+                "posx": 472,
+                "posy": 119,
+                "color": "pink"
+            },
+            {
+                "posx": 451,
+                "posy": 892,
+                "color": "orange"
+            },
+            {
+                "posx": 544,
+                "posy": 808,
+                "color": "green"
+            },
+            {
+                "posx": 747,
+                "posy": 976,
+                "color": "orange"
+            },
+            {
+                "posx": 454,
+                "posy": 195,
+                "color": "blue"
+            },
+            {
+                "posx": 482,
+                "posy": 1023,
+                "color": "black"
+            },
+            {
+                "posx": 833,
+                "posy": 99,
+                "color": "yellow"
+            }
+        ]
+    },
+    {
+        "posx": 647.1905304646804,
+        "posy": 1027.4911713561996,
+        "radio": 30,
+        "direccion": 39.00796722105787,
+        "color": "purple",
+        "velocidad": 3,
+        "edad": 65,
+        "ciudad": "madrid",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 45,
+                "posy": 240,
+                "color": "green"
+            },
+            {
+                "posx": 79,
+                "posy": 860,
+                "color": "orange"
+            },
+            {
+                "posx": 19,
+                "posy": 861,
+                "color": "blue"
+            },
+            {
+                "posx": 631,
+                "posy": 43,
+                "color": "green"
+            },
+            {
+                "posx": 707,
+                "posy": 1001,
+                "color": "blue"
+            },
+            {
+                "posx": 595,
+                "posy": 51,
+                "color": "orange"
+            },
+            {
+                "posx": 706,
+                "posy": 728,
+                "color": "purple"
+            },
+            {
+                "posx": 737,
+                "posy": 916,
+                "color": "black"
+            },
+            {
+                "posx": 97,
+                "posy": 378,
+                "color": "orange"
+            },
+            {
+                "posx": 266,
+                "posy": 865,
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "posx": 37.16858300364659,
+        "posy": 278.33870190602977,
+        "radio": 30,
+        "direccion": 31.147527809273324,
+        "color": "purple",
+        "velocidad": 4,
+        "edad": 85,
+        "ciudad": "bilbao",
+        "colorpelo": "moreno",
+        "profesion": "informatica",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 56,
+                "posy": 663,
+                "color": "red"
+            },
+            {
+                "posx": 1021,
+                "posy": 323,
+                "color": "black"
+            },
+            {
+                "posx": 844,
+                "posy": 277,
+                "color": "red"
+            },
+            {
+                "posx": 629,
+                "posy": 183,
+                "color": "yellow"
+            },
+            {
+                "posx": 544,
+                "posy": 615,
+                "color": "orange"
+            },
+            {
+                "posx": 653,
+                "posy": 774,
+                "color": "green"
+            },
+            {
+                "posx": 2,
+                "posy": 491,
+                "color": "yellow"
+            },
+            {
+                "posx": 876,
+                "posy": 916,
+                "color": "pink"
+            },
+            {
+                "posx": 862,
+                "posy": 758,
+                "color": "pink"
+            },
+            {
+                "posx": 324,
+                "posy": 864,
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "posx": 353.14120849080547,
+        "posy": 332.0783853185894,
+        "radio": 30,
+        "direccion": 126,
+        "color": "purple",
+        "velocidad": 1,
+        "edad": 40,
+        "ciudad": "madrid",
+        "colorpelo": "pelirrojo",
+        "profesion": "enfermeria",
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
+        "inventario": [
+            {
+                "posx": 161,
+                "posy": 440,
+                "color": "green"
+            },
+            {
+                "posx": 929,
+                "posy": 226,
+                "color": "orange"
+            },
+            {
+                "posx": 438,
+                "posy": 551,
+                "color": "black"
+            },
+            {
+                "posx": 168,
+                "posy": 450,
+                "color": "pink"
+            },
+            {
+                "posx": 600,
+                "posy": 1021,
+                "color": "purple"
+            },
+            {
+                "posx": 27,
+                "posy": 364,
+                "color": "yellow"
+            },
+            {
+                "posx": 932,
+                "posy": 822,
+                "color": "green"
+            },
+            {
+                "posx": 575,
+                "posy": 104,
+                "color": "orange"
+            },
+            {
+                "posx": 768,
+                "posy": 301,
+                "color": "green"
+            },
+            {
+                "posx": 194,
+                "posy": 904,
                 "color": "purple"
             }
         ]
     },
     {
-        "posx": 631.4812109967875,
-        "posy": 832.135209021382,
+        "posx": 614.5083188849258,
+        "posy": 38.71670920259097,
         "radio": 30,
-        "direccion": 307.6833742793106,
+        "direccion": 243,
         "color": "purple",
-        "velocidad": 4,
-        "edad": 11,
-        "ciudad": "madrid",
-        "colorpelo": "canoso",
+        "velocidad": 2,
+        "edad": 33,
+        "ciudad": "bilbao",
+        "colorpelo": "rubio",
         "profesion": "informatica",
-        "energia": 80.90000000000109,
-        "descanso": 80.90000000000109,
+        "energia": 82.400000000001,
+        "descanso": 82.400000000001,
         "inventario": [
             {
-                "posx": 93,
-                "posy": 248,
+                "posx": 652,
+                "posy": 974,
                 "color": "pink"
             },
             {
-                "posx": 707,
-                "posy": 475,
-                "color": "yellow"
+                "posx": 743,
+                "posy": 215,
+                "color": "green"
             },
             {
-                "posx": 952,
-                "posy": 994,
-                "color": "black"
-            },
-            {
-                "posx": 778,
-                "posy": 623,
-                "color": "yellow"
-            },
-            {
-                "posx": 707,
-                "posy": 531,
-                "color": "orange"
-            },
-            {
-                "posx": 357,
-                "posy": 604,
-                "color": "yellow"
-            },
-            {
-                "posx": 410,
-                "posy": 902,
-                "color": "purple"
-            },
-            {
-                "posx": 502,
-                "posy": 877,
-                "color": "black"
-            },
-            {
-                "posx": 13,
-                "posy": 486,
+                "posx": 771,
+                "posy": 179,
                 "color": "red"
             },
             {
-                "posx": 702,
-                "posy": 189,
-                "color": "green"
+                "posx": 548,
+                "posy": 939,
+                "color": "purple"
+            },
+            {
+                "posx": 519,
+                "posy": 85,
+                "color": "pink"
+            },
+            {
+                "posx": 188,
+                "posy": 473,
+                "color": "blue"
+            },
+            {
+                "posx": 581,
+                "posy": 312,
+                "color": "blue"
+            },
+            {
+                "posx": 538,
+                "posy": 536,
+                "color": "pink"
+            },
+            {
+                "posx": 701,
+                "posy": 233,
+                "color": "blue"
+            },
+            {
+                "posx": 433,
+                "posy": 735,
+                "color": "yellow"
             }
         ]
     }
