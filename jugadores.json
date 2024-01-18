@@ -1,67 +1,59 @@
 [
     {
-        "posx": 511.18667666174787,
-        "posy": 358.64762845470773,
+        "posx": 773.0606969123861,
+        "posy": 408.6860535374202,
         "radio": 30,
-        "direccion": 324.17440308369225,
-        "color": "black",
-        "velocidad": 3,
-        "edad": 97,
-        "ciudad": "bilbao",
+        "direccion": 36,
+        "color": "yellow",
+        "velocidad": 2,
+        "edad": 23,
+        "ciudad": "almeria",
         "colorpelo": "canoso",
-        "profesion": "policia",
-        "energia": 68.50000000000179,
-        "descanso": 68.50000000000179,
-        "inventario": [
+        "profesion": "hosteleria",
+        "energia": 71.50000000000162,
+        "descanso": 71.50000000000162,
+        "atributos": [
             {
-                "posx": 83,
-                "posy": 469,
-                "color": "blue"
-            },
+                "clase": "arquero",
+                "naturaleza": "seria",
+                "fuerza": 10,
+                "resistencia": 3,
+                "destreza": 10,
+                "inteligencia": 2,
+                "agilidad": 5,
+                "suerte": 1,
+                "carisma": 4,
+                "sigilo": 6,
+                "constitucion": "Muy delgada"
+            }
+        ]
+    },
+    {
+        "posx": 648.3050340564009,
+        "posy": 796.4472300178139,
+        "radio": 30,
+        "direccion": 286.39793180964205,
+        "color": "purple",
+        "velocidad": 5,
+        "edad": 28,
+        "ciudad": "madrid",
+        "colorpelo": "pelirrojo",
+        "profesion": "arquitectura",
+        "energia": 71.50000000000162,
+        "descanso": 71.50000000000162,
+        "atributos": [
             {
-                "posx": 115,
-                "posy": 477,
-                "color": "blue"
-            },
-            {
-                "posx": 205,
-                "posy": 704,
-                "color": "black"
-            },
-            {
-                "posx": 532,
-                "posy": 966,
-                "color": "orange"
-            },
-            {
-                "posx": 208,
-                "posy": 915,
-                "color": "yellow"
-            },
-            {
-                "posx": 369,
-                "posy": 813,
-                "color": "pink"
-            },
-            {
-                "posx": 263,
-                "posy": 408,
-                "color": "yellow"
-            },
-            {
-                "posx": 584,
-                "posy": 802,
-                "color": "red"
-            },
-            {
-                "posx": 87,
-                "posy": 112,
-                "color": "red"
-            },
-            {
-                "posx": 935,
-                "posy": 466,
-                "color": "pink"
+                "clase": "brujo",
+                "naturaleza": "timida",
+                "fuerza": 2,
+                "resistencia": 3,
+                "destreza": 10,
+                "inteligencia": 3,
+                "agilidad": 4,
+                "suerte": 2,
+                "carisma": 9,
+                "sigilo": 5,
+                "constitucion": "Muy delgada"
             }
         ]
     }

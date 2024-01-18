@@ -11,18 +11,49 @@ seleccionciudad = 'SELECT * FROM jugadores WHERE ciudad="jaen"'
 seleccionpelo = 'SELECT * FROM jugadores WHERE colorpelo="pelirrojo"'
 seleccionprofesion = 'SELECT * FROM jugadores WHERE profesion="docencia"'
 
-class Recogible():
+class Atributos():
     def __init__(self):
-        self.posx = random.randint(0,1024)
-        self.posy = random.randint(0,1024)
-        self.color = colores()
+        self.clase = clases()
+        self.naturaleza = naturalezas()
+        self.fuerza = random.randint(1,10)
+        self.resistencia = random.randint(1,10)
+        self.destreza = random.randint(1,10)
+        self.inteligencia = random.randint(1,10)
+        self.agilidad = random.randint(1,10)
+        self.suerte = random.randint(1,10)
+        self.carisma = random.randint(1,10)
+        self.sigilo = random.randint(1,10)
+        self.constitucion = constituciones()
     def serializar(self):
-        recogible_serializado = {
-            "posx":self.posx,
-            "posy":self.posy,
-            "color":self.color,
+        atributo_serializado = {
+            "clase":self.clase,
+            "naturaleza":self.naturaleza,
+            "fuerza":self.fuerza,
+            "resistencia":self.resistencia,
+            "destreza":self.destreza,
+            "inteligencia":self.inteligencia,
+            "agilidad":self.agilidad,
+            "suerte":self.suerte,
+            "carisma":self.carisma,
+            "sigilo":self.sigilo,
+            "constitucion":self.constitucion,
             }
-        return recogible_serializado
+        return atributo_serializado
+    
+def clases():
+    listaclases = ["guerrero","mago","ladron","monje","arquero","hechicero","brujo","campesino"]
+    claseazar = listaclases[random.randint(0,len(listaclases)-1)]
+    return claseazar
+
+def naturalezas():
+    listanaturalezas = ["timida","aventurera","seria","alegre","picara","solemne","malvada"]
+    naturalezaazar = listanaturalezas[random.randint(0,len(listanaturalezas)-1)]
+    return naturalezaazar
+
+def constituciones():
+    listaconstituciones = ["Muy delgada","Delgada","Normal","Fuerte","Muy fuerte"]
+    constitucionazar = listaconstituciones[random.randint(0,len(listaconstituciones)-1)]
+    return constitucionazar
 
 class Persona():
     def __init__(self):
@@ -41,9 +72,9 @@ class Persona():
         self.descanso = 100
         self.entidadenergia = ""
         self.entidaddescanso = ""
-        self.inventario = []
-        for i in range(0,10):
-            self.inventario.append(Recogible())
+        self.atributos = []
+        #for i in range(0,10):
+        self.atributos.append(Atributos())
     def dibuja(self):
         self.entidad = lienzo.create_oval(
             self.posx-self.radio/2,
@@ -109,7 +140,7 @@ class Persona():
             "profesion":self.profesion,
             "energia":self.energia,
             "descanso":self.descanso,
-            "inventario":[item.serializar() for item in self.inventario]
+            "atributos":[item.serializar() for item in self.atributos]
             }
         return persona_serializada
 
@@ -154,7 +185,7 @@ def guardarPersonas():
             DELETE FROM jugadores
             ''')
     cursor.execute('''
-            DELETE FROM recogibles
+            DELETE FROM atributos
             ''')
     conexion.commit()
     for persona in personas:
@@ -177,18 +208,26 @@ def guardarPersonas():
                 '''+str(persona.descanso)+''',
                 "'''+str(persona.entidadenergia)+'''",
                 "'''+str(persona.entidaddescanso)+'''",
-                "'''+str(persona.inventario)+'''"
+                "'''+str(persona.atributos)+'''"
             )
             ''')
-        for recogible in persona.inventario:
+        for atributo in persona.atributos:
             peticion = '''
-            INSERT INTO recogibles
+            INSERT INTO atributos
             VALUES (
                 NULL,
                 '''+str(persona.entidad)+''',
-                "'''+str(recogible.posx)+'''",
-                "'''+str(recogible.posy)+'''",
-                "'''+str(recogible.color)+'''"
+                "'''+str(atributo.clase)+'''",
+                "'''+str(atributo.naturaleza)+'''",
+                '''+str(atributo.fuerza)+''',
+                '''+str(atributo.resistencia)+''',
+                '''+str(atributo.destreza)+''',
+                '''+str(atributo.inteligencia)+''',
+                '''+str(atributo.agilidad)+''',
+                '''+str(atributo.suerte)+''',
+                '''+str(atributo.carisma)+''',
+                '''+str(atributo.sigilo)+''',
+                "'''+str(atributo.constitucion)+'''"
             )
             '''
             cursor.execute(peticion)
@@ -257,7 +296,7 @@ boton.pack()
 #En la colección introduzco instancias de personas en el caso de que no existan
 print("Personas encontradas: " + str(len(personas)))
 if not personas:
-    numeropersonas = 1
+    numeropersonas = 2
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
