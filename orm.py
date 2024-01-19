@@ -6,7 +6,7 @@ import sqlite3
 
 #Declaración de variables globales
 personas = []
-seleccioncolor = 'SELECT * FROM jugadores WHERE color="pink"'
+seleccioncolor = 'SELECT * FROM jugadores WHERE color="blue"'
 seleccionciudad = 'SELECT * FROM jugadores WHERE ciudad="jaen"'
 seleccionpelo = 'SELECT * FROM jugadores WHERE colorpelo="pelirrojo"'
 seleccionprofesion = 'SELECT * FROM jugadores WHERE profesion="docencia"'
@@ -73,7 +73,6 @@ class Persona():
         self.entidadenergia = ""
         self.entidaddescanso = ""
         self.atributos = []
-        #for i in range(0,10):
         self.atributos.append(Atributos())
     def dibuja(self):
         self.entidad = lienzo.create_oval(
@@ -277,18 +276,26 @@ boton.pack()
 ##        cursor2 = conexion.cursor()
 ##        cursor2.execute('''
 ##            SELECT *
-##            FROM recogibles
+##            FROM atributos
 ##            WHERE persona='''+persona.entidad+'''
 ##            ''')
 ##        while True:
 ##            fila2 = cursor2.fetchone()
 ##            if fila2 is None:
 ##                break
-##            nuevorecogible = Recogible()
-##            nuevorecogible.posx = fila2[2]
-##            nuevorecogible.posy = fila2[3]
-##            nuevorecogible.color = fila2[4]
-##            persona.inventario.append(nuevorecogible)
+##            nuevoatributo = Atributos()
+##            nuevoatributo.clase = fila2[2]
+##            nuevoatributo.naturaleza = fila2[3]
+##            nuevoatributo.fuerza = fila2[4]
+##            nuevoatributo.resistencia = fila2[5]
+##            nuevoatributo.destreza = fila2[6]
+##            nuevoatributo.inteligencia = fila2[7]
+##            nuevoatributo.agilidad = fila2[8]
+##            nuevoatributo.suerte = fila2[9]
+##            nuevoatributo.carisma = fila2[10]
+##            nuevoatributo.sigilo = fila2[11]
+##            nuevoatributo.constitucion = fila2[12]
+##            persona.atributos.append(nuevoatributo)
 ##    conexion.close()
 ##except Exception as e:
 ##    print("error al leer base de datos", str(e))
@@ -296,7 +303,7 @@ boton.pack()
 #En la colección introduzco instancias de personas en el caso de que no existan
 print("Personas encontradas: " + str(len(personas)))
 if not personas:
-    numeropersonas = 2
+    numeropersonas = 50
     for i in range(0,numeropersonas):
         personas.append(Persona())
     

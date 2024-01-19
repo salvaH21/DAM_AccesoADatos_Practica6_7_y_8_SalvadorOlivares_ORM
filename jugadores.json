@@ -1,59 +1,1451 @@
 [
     {
-        "posx": 773.0606969123861,
-        "posy": 408.6860535374202,
+        "posx": 568.479163376325,
+        "posy": 140.8944173731931,
         "radio": 30,
-        "direccion": 36,
-        "color": "yellow",
-        "velocidad": 2,
-        "edad": 23,
-        "ciudad": "almeria",
-        "colorpelo": "canoso",
+        "direccion": 112.06939294344642,
+        "color": "red",
+        "velocidad": 4,
+        "edad": 48,
+        "ciudad": "barcelona",
+        "colorpelo": "pelirrojo",
         "profesion": "hosteleria",
-        "energia": 71.50000000000162,
-        "descanso": 71.50000000000162,
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
         "atributos": [
             {
                 "clase": "arquero",
                 "naturaleza": "seria",
-                "fuerza": 10,
-                "resistencia": 3,
-                "destreza": 10,
-                "inteligencia": 2,
-                "agilidad": 5,
+                "fuerza": 2,
+                "resistencia": 2,
+                "destreza": 3,
+                "inteligencia": 7,
+                "agilidad": 10,
                 "suerte": 1,
-                "carisma": 4,
+                "carisma": 10,
                 "sigilo": 6,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 374.78131208809504,
+        "posy": 384.0757571781925,
+        "radio": 30,
+        "direccion": 269,
+        "color": "blue",
+        "velocidad": 1,
+        "edad": 60,
+        "ciudad": "granada",
+        "colorpelo": "canoso",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "monje",
+                "naturaleza": "timida",
+                "fuerza": 3,
+                "resistencia": 2,
+                "destreza": 9,
+                "inteligencia": 4,
+                "agilidad": 1,
+                "suerte": 5,
+                "carisma": 6,
+                "sigilo": 7,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 832.3169741378974,
+        "posy": 594.3723276722322,
+        "radio": 30,
+        "direccion": 352.8330880963625,
+        "color": "blue",
+        "velocidad": 4,
+        "edad": 84,
+        "ciudad": "barcelona",
+        "colorpelo": "rubio",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "timida",
+                "fuerza": 5,
+                "resistencia": 1,
+                "destreza": 4,
+                "inteligencia": 7,
+                "agilidad": 7,
+                "suerte": 10,
+                "carisma": 10,
+                "sigilo": 3,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 528.360033871095,
+        "posy": 482.40876742373285,
+        "radio": 30,
+        "direccion": 91,
+        "color": "purple",
+        "velocidad": 1,
+        "edad": 17,
+        "ciudad": "bilbao",
+        "colorpelo": "canoso",
+        "profesion": "derecho",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "mago",
+                "naturaleza": "solemne",
+                "fuerza": 8,
+                "resistencia": 10,
+                "destreza": 4,
+                "inteligencia": 4,
+                "agilidad": 3,
+                "suerte": 4,
+                "carisma": 5,
+                "sigilo": 7,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 46.90082439390988,
+        "posy": 520.4831007955124,
+        "radio": 30,
+        "direccion": 120.73343020619134,
+        "color": "blue",
+        "velocidad": 3,
+        "edad": 51,
+        "ciudad": "bilbao",
+        "colorpelo": "canoso",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "guerrero",
+                "naturaleza": "picara",
+                "fuerza": 10,
+                "resistencia": 2,
+                "destreza": 1,
+                "inteligencia": 3,
+                "agilidad": 4,
+                "suerte": 4,
+                "carisma": 5,
+                "sigilo": 7,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 0.8392630243663359,
+        "posy": 505.41051863765523,
+        "radio": 30,
+        "direccion": 75.55997489282292,
+        "color": "blue",
+        "velocidad": 4,
+        "edad": 10,
+        "ciudad": "jaen",
+        "colorpelo": "pelirrojo",
+        "profesion": "policia",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "malvada",
+                "fuerza": 1,
+                "resistencia": 6,
+                "destreza": 5,
+                "inteligencia": 6,
+                "agilidad": 2,
+                "suerte": 10,
+                "carisma": 3,
+                "sigilo": 9,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 233.93949985368897,
+        "posy": 676.0502519584777,
+        "radio": 30,
+        "direccion": 13.145321753768734,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 83,
+        "ciudad": "granada",
+        "colorpelo": "moreno",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "seria",
+                "fuerza": 3,
+                "resistencia": 2,
+                "destreza": 9,
+                "inteligencia": 7,
+                "agilidad": 3,
+                "suerte": 5,
+                "carisma": 10,
+                "sigilo": 3,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 743.8072818856839,
+        "posy": 77.41581602438518,
+        "radio": 30,
+        "direccion": 257.180156103918,
+        "color": "blue",
+        "velocidad": 4,
+        "edad": 19,
+        "ciudad": "madrid",
+        "colorpelo": "pelirrojo",
+        "profesion": "derecho",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "brujo",
+                "naturaleza": "malvada",
+                "fuerza": 6,
+                "resistencia": 9,
+                "destreza": 7,
+                "inteligencia": 7,
+                "agilidad": 5,
+                "suerte": 3,
+                "carisma": 9,
+                "sigilo": 6,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 795.150797526486,
+        "posy": 456.57047324688796,
+        "radio": 30,
+        "direccion": 6.964741188747871,
+        "color": "orange",
+        "velocidad": 5,
+        "edad": 73,
+        "ciudad": "bilbao",
+        "colorpelo": "sin pelo",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "mago",
+                "naturaleza": "timida",
+                "fuerza": 10,
+                "resistencia": 10,
+                "destreza": 10,
+                "inteligencia": 5,
+                "agilidad": 4,
+                "suerte": 7,
+                "carisma": 6,
+                "sigilo": 2,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 778.7638450611948,
+        "posy": 445.46652284025305,
+        "radio": 30,
+        "direccion": 147.27997408788858,
+        "color": "pink",
+        "velocidad": 1,
+        "edad": 99,
+        "ciudad": "valencia",
+        "colorpelo": "sin pelo",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "solemne",
+                "fuerza": 6,
+                "resistencia": 7,
+                "destreza": 5,
+                "inteligencia": 4,
+                "agilidad": 4,
+                "suerte": 7,
+                "carisma": 2,
+                "sigilo": 1,
                 "constitucion": "Muy delgada"
             }
         ]
     },
     {
-        "posx": 648.3050340564009,
-        "posy": 796.4472300178139,
+        "posx": 817.3540395673672,
+        "posy": 853.0008778028321,
         "radio": 30,
-        "direccion": 286.39793180964205,
+        "direccion": 353,
+        "color": "blue",
+        "velocidad": 1,
+        "edad": 91,
+        "ciudad": "granada",
+        "colorpelo": "rubio",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "guerrero",
+                "naturaleza": "aventurera",
+                "fuerza": 1,
+                "resistencia": 2,
+                "destreza": 4,
+                "inteligencia": 4,
+                "agilidad": 9,
+                "suerte": 7,
+                "carisma": 5,
+                "sigilo": 1,
+                "constitucion": "Muy delgada"
+            }
+        ]
+    },
+    {
+        "posx": 311.27285525848697,
+        "posy": 951.0050749329558,
+        "radio": 30,
+        "direccion": 109.90409728986027,
+        "color": "red",
+        "velocidad": 3,
+        "edad": 15,
+        "ciudad": "jaen",
+        "colorpelo": "rubio",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "picara",
+                "fuerza": 6,
+                "resistencia": 6,
+                "destreza": 6,
+                "inteligencia": 8,
+                "agilidad": 8,
+                "suerte": 10,
+                "carisma": 7,
+                "sigilo": 1,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 636.3032004360991,
+        "posy": 596.6300990613615,
+        "radio": 30,
+        "direccion": 237.1973379082014,
+        "color": "green",
+        "velocidad": 5,
+        "edad": 87,
+        "ciudad": "barcelona",
+        "colorpelo": "sin pelo",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "hechicero",
+                "naturaleza": "alegre",
+                "fuerza": 2,
+                "resistencia": 2,
+                "destreza": 1,
+                "inteligencia": 5,
+                "agilidad": 2,
+                "suerte": 10,
+                "carisma": 5,
+                "sigilo": 7,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 28.80185997423962,
+        "posy": 326.2084168711424,
+        "radio": 30,
+        "direccion": 249.06046277782661,
+        "color": "yellow",
+        "velocidad": 4,
+        "edad": 24,
+        "ciudad": "almeria",
+        "colorpelo": "sin pelo",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "seria",
+                "fuerza": 7,
+                "resistencia": 2,
+                "destreza": 6,
+                "inteligencia": 8,
+                "agilidad": 8,
+                "suerte": 10,
+                "carisma": 5,
+                "sigilo": 6,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 73.23147888868618,
+        "posy": 223.81095979732592,
+        "radio": 30,
+        "direccion": 164.84960663184592,
+        "color": "red",
+        "velocidad": 1,
+        "edad": 27,
+        "ciudad": "almeria",
+        "colorpelo": "sin pelo",
+        "profesion": "policia",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "alegre",
+                "fuerza": 7,
+                "resistencia": 1,
+                "destreza": 1,
+                "inteligencia": 7,
+                "agilidad": 10,
+                "suerte": 1,
+                "carisma": 4,
+                "sigilo": 5,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 295.92981579079054,
+        "posy": 790.7612262888288,
+        "radio": 30,
+        "direccion": 185.81240159675716,
+        "color": "blue",
+        "velocidad": 5,
+        "edad": 56,
+        "ciudad": "madrid",
+        "colorpelo": "moreno",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "solemne",
+                "fuerza": 8,
+                "resistencia": 5,
+                "destreza": 4,
+                "inteligencia": 6,
+                "agilidad": 1,
+                "suerte": 10,
+                "carisma": 3,
+                "sigilo": 10,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 348.0200176065417,
+        "posy": 630.5809211712665,
+        "radio": 30,
+        "direccion": 287.63505407735704,
+        "color": "yellow",
+        "velocidad": 3,
+        "edad": 42,
+        "ciudad": "bilbao",
+        "colorpelo": "rubio",
+        "profesion": "hosteleria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "seria",
+                "fuerza": 4,
+                "resistencia": 2,
+                "destreza": 10,
+                "inteligencia": 5,
+                "agilidad": 6,
+                "suerte": 5,
+                "carisma": 5,
+                "sigilo": 1,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 168.24911069520087,
+        "posy": 903.1523085765309,
+        "radio": 30,
+        "direccion": 20.466815678936513,
+        "color": "red",
+        "velocidad": 5,
+        "edad": 64,
+        "ciudad": "jaen",
+        "colorpelo": "moreno",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "alegre",
+                "fuerza": 10,
+                "resistencia": 2,
+                "destreza": 2,
+                "inteligencia": 1,
+                "agilidad": 3,
+                "suerte": 2,
+                "carisma": 7,
+                "sigilo": 3,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 978.0533065500376,
+        "posy": 706.000325615592,
+        "radio": 30,
+        "direccion": 67.39209911890929,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 67,
+        "ciudad": "valencia",
+        "colorpelo": "canoso",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "brujo",
+                "naturaleza": "alegre",
+                "fuerza": 7,
+                "resistencia": 2,
+                "destreza": 10,
+                "inteligencia": 5,
+                "agilidad": 5,
+                "suerte": 5,
+                "carisma": 9,
+                "sigilo": 9,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 892.7882502137513,
+        "posy": 350.370726407749,
+        "radio": 30,
+        "direccion": 46.55216048063774,
+        "color": "black",
+        "velocidad": 4,
+        "edad": 40,
+        "ciudad": "barcelona",
+        "colorpelo": "pelirrojo",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "picara",
+                "fuerza": 9,
+                "resistencia": 5,
+                "destreza": 1,
+                "inteligencia": 3,
+                "agilidad": 9,
+                "suerte": 6,
+                "carisma": 7,
+                "sigilo": 2,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 33.36170206257688,
+        "posy": 771.4186631140653,
+        "radio": 30,
+        "direccion": 149.88747160919192,
+        "color": "purple",
+        "velocidad": 2,
+        "edad": 82,
+        "ciudad": "santander",
+        "colorpelo": "sin pelo",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "seria",
+                "fuerza": 3,
+                "resistencia": 8,
+                "destreza": 10,
+                "inteligencia": 9,
+                "agilidad": 1,
+                "suerte": 5,
+                "carisma": 3,
+                "sigilo": 5,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 170.88545855746065,
+        "posy": 571.6311246407065,
+        "radio": 30,
+        "direccion": 73.03165452678061,
+        "color": "black",
+        "velocidad": 3,
+        "edad": 60,
+        "ciudad": "jaen",
+        "colorpelo": "rubio",
+        "profesion": "derecho",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "brujo",
+                "naturaleza": "alegre",
+                "fuerza": 5,
+                "resistencia": 2,
+                "destreza": 8,
+                "inteligencia": 6,
+                "agilidad": 10,
+                "suerte": 9,
+                "carisma": 10,
+                "sigilo": 9,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 85.78257364936599,
+        "posy": 536.0778977671681,
+        "radio": 30,
+        "direccion": 190,
+        "color": "pink",
+        "velocidad": 1,
+        "edad": 69,
+        "ciudad": "madrid",
+        "colorpelo": "sin pelo",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "timida",
+                "fuerza": 9,
+                "resistencia": 7,
+                "destreza": 4,
+                "inteligencia": 10,
+                "agilidad": 2,
+                "suerte": 6,
+                "carisma": 10,
+                "sigilo": 10,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 492.980787916429,
+        "posy": 800.8523912337437,
+        "radio": 30,
+        "direccion": 42.15175329089735,
+        "color": "orange",
+        "velocidad": 1,
+        "edad": 81,
+        "ciudad": "santander",
+        "colorpelo": "rubio",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "aventurera",
+                "fuerza": 7,
+                "resistencia": 1,
+                "destreza": 9,
+                "inteligencia": 7,
+                "agilidad": 6,
+                "suerte": 2,
+                "carisma": 1,
+                "sigilo": 1,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 623.0205036401379,
+        "posy": 236.43451944761193,
+        "radio": 30,
+        "direccion": 193.13270689338998,
+        "color": "blue",
+        "velocidad": 5,
+        "edad": 8,
+        "ciudad": "bilbao",
+        "colorpelo": "sin pelo",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "picara",
+                "fuerza": 1,
+                "resistencia": 3,
+                "destreza": 10,
+                "inteligencia": 10,
+                "agilidad": 5,
+                "suerte": 1,
+                "carisma": 7,
+                "sigilo": 7,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 659.3116074885411,
+        "posy": 651.8327963750315,
+        "radio": 30,
+        "direccion": 100,
+        "color": "blue",
+        "velocidad": 1,
+        "edad": 2,
+        "ciudad": "granada",
+        "colorpelo": "pelirrojo",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "mago",
+                "naturaleza": "seria",
+                "fuerza": 7,
+                "resistencia": 3,
+                "destreza": 3,
+                "inteligencia": 8,
+                "agilidad": 6,
+                "suerte": 10,
+                "carisma": 10,
+                "sigilo": 6,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 703.0168282916513,
+        "posy": 510.90220070962795,
+        "radio": 30,
+        "direccion": 273.31874341840023,
+        "color": "green",
+        "velocidad": 4,
+        "edad": 32,
+        "ciudad": "barcelona",
+        "colorpelo": "sin pelo",
+        "profesion": "hosteleria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "aventurera",
+                "fuerza": 9,
+                "resistencia": 9,
+                "destreza": 5,
+                "inteligencia": 6,
+                "agilidad": 1,
+                "suerte": 8,
+                "carisma": 6,
+                "sigilo": 3,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 1024.3276257732373,
+        "posy": 455.2493071441304,
+        "radio": 30,
+        "direccion": 293.08671839613135,
         "color": "purple",
         "velocidad": 5,
-        "edad": 28,
-        "ciudad": "madrid",
+        "edad": 23,
+        "ciudad": "granada",
         "colorpelo": "pelirrojo",
-        "profesion": "arquitectura",
-        "energia": 71.50000000000162,
-        "descanso": 71.50000000000162,
+        "profesion": "hosteleria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
         "atributos": [
             {
                 "clase": "brujo",
                 "naturaleza": "timida",
-                "fuerza": 2,
+                "fuerza": 9,
+                "resistencia": 6,
+                "destreza": 4,
+                "inteligencia": 5,
+                "agilidad": 6,
+                "suerte": 4,
+                "carisma": 10,
+                "sigilo": 10,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 140.6899111739893,
+        "posy": 952.6054508945632,
+        "radio": 30,
+        "direccion": 226.14382963124652,
+        "color": "orange",
+        "velocidad": 2,
+        "edad": 92,
+        "ciudad": "madrid",
+        "colorpelo": "sin pelo",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "brujo",
+                "naturaleza": "solemne",
+                "fuerza": 1,
+                "resistencia": 2,
+                "destreza": 10,
+                "inteligencia": 9,
+                "agilidad": 5,
+                "suerte": 5,
+                "carisma": 2,
+                "sigilo": 7,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 29.632329756143232,
+        "posy": 204.89718155452584,
+        "radio": 30,
+        "direccion": 91.94228521083551,
+        "color": "black",
+        "velocidad": 5,
+        "edad": 47,
+        "ciudad": "almeria",
+        "colorpelo": "rubio",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "timida",
+                "fuerza": 4,
+                "resistencia": 8,
+                "destreza": 2,
+                "inteligencia": 6,
+                "agilidad": 2,
+                "suerte": 7,
+                "carisma": 6,
+                "sigilo": 7,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 117.73805255362576,
+        "posy": 971.5275184945982,
+        "radio": 30,
+        "direccion": 332.8488403421904,
+        "color": "red",
+        "velocidad": 3,
+        "edad": 6,
+        "ciudad": "santander",
+        "colorpelo": "rubio",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "mago",
+                "naturaleza": "alegre",
+                "fuerza": 6,
+                "resistencia": 2,
+                "destreza": 6,
+                "inteligencia": 3,
+                "agilidad": 10,
+                "suerte": 8,
+                "carisma": 5,
+                "sigilo": 8,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 959.6931254792713,
+        "posy": 818.9086668653147,
+        "radio": 30,
+        "direccion": 275.63483913967025,
+        "color": "yellow",
+        "velocidad": 3,
+        "edad": 63,
+        "ciudad": "madrid",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "picara",
+                "fuerza": 10,
                 "resistencia": 3,
+                "destreza": 7,
+                "inteligencia": 6,
+                "agilidad": 4,
+                "suerte": 3,
+                "carisma": 9,
+                "sigilo": 2,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 1031.3576837382686,
+        "posy": 954.8978569542743,
+        "radio": 30,
+        "direccion": 473.65030866979237,
+        "color": "blue",
+        "velocidad": 3,
+        "edad": 37,
+        "ciudad": "granada",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "mago",
+                "naturaleza": "aventurera",
+                "fuerza": 4,
+                "resistencia": 5,
+                "destreza": 3,
+                "inteligencia": 1,
+                "agilidad": 9,
+                "suerte": 7,
+                "carisma": 2,
+                "sigilo": 2,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 419.7805578069456,
+        "posy": 875.0003471205175,
+        "radio": 30,
+        "direccion": 42.62582154238111,
+        "color": "pink",
+        "velocidad": 2,
+        "edad": 6,
+        "ciudad": "madrid",
+        "colorpelo": "moreno",
+        "profesion": "policia",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "hechicero",
+                "naturaleza": "seria",
+                "fuerza": 6,
+                "resistencia": 4,
+                "destreza": 7,
+                "inteligencia": 4,
+                "agilidad": 2,
+                "suerte": 8,
+                "carisma": 1,
+                "sigilo": 5,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 15.568215973098253,
+        "posy": 168.7151649524301,
+        "radio": 30,
+        "direccion": 176.43230537268997,
+        "color": "purple",
+        "velocidad": 4,
+        "edad": 83,
+        "ciudad": "valencia",
+        "colorpelo": "rubio",
+        "profesion": "policia",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "mago",
+                "naturaleza": "alegre",
+                "fuerza": 7,
+                "resistencia": 4,
+                "destreza": 10,
+                "inteligencia": 7,
+                "agilidad": 8,
+                "suerte": 5,
+                "carisma": 4,
+                "sigilo": 8,
+                "constitucion": "Muy delgada"
+            }
+        ]
+    },
+    {
+        "posx": 994.7735297304025,
+        "posy": 443.6640553472846,
+        "radio": 30,
+        "direccion": 286.7175897251999,
+        "color": "green",
+        "velocidad": 4,
+        "edad": 75,
+        "ciudad": "almeria",
+        "colorpelo": "moreno",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "timida",
+                "fuerza": 8,
+                "resistencia": 4,
+                "destreza": 5,
+                "inteligencia": 3,
+                "agilidad": 6,
+                "suerte": 9,
+                "carisma": 9,
+                "sigilo": 4,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 278.0952228469699,
+        "posy": 415.5735593057625,
+        "radio": 30,
+        "direccion": 66.65940529831191,
+        "color": "pink",
+        "velocidad": 3,
+        "edad": 25,
+        "ciudad": "barcelona",
+        "colorpelo": "pelirrojo",
+        "profesion": "hosteleria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "picara",
+                "fuerza": 6,
+                "resistencia": 1,
+                "destreza": 8,
+                "inteligencia": 7,
+                "agilidad": 9,
+                "suerte": 3,
+                "carisma": 8,
+                "sigilo": 7,
+                "constitucion": "Muy delgada"
+            }
+        ]
+    },
+    {
+        "posx": 143.30402539006877,
+        "posy": 437.01817855376567,
+        "radio": 30,
+        "direccion": 80.8504491703776,
+        "color": "pink",
+        "velocidad": 4,
+        "edad": 100,
+        "ciudad": "almeria",
+        "colorpelo": "pelirrojo",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "picara",
+                "fuerza": 6,
+                "resistencia": 7,
+                "destreza": 10,
+                "inteligencia": 9,
+                "agilidad": 7,
+                "suerte": 3,
+                "carisma": 2,
+                "sigilo": 7,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 194.9182415972375,
+        "posy": 408.0716233410161,
+        "radio": 30,
+        "direccion": 302.9251450620341,
+        "color": "pink",
+        "velocidad": 4,
+        "edad": 16,
+        "ciudad": "valencia",
+        "colorpelo": "rubio",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "alegre",
+                "fuerza": 7,
+                "resistencia": 8,
+                "destreza": 6,
+                "inteligencia": 5,
+                "agilidad": 2,
+                "suerte": 10,
+                "carisma": 2,
+                "sigilo": 1,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 837.9685535334318,
+        "posy": 621.5021456749805,
+        "radio": 30,
+        "direccion": 21.528313511167976,
+        "color": "purple",
+        "velocidad": 5,
+        "edad": 45,
+        "ciudad": "santander",
+        "colorpelo": "moreno",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "picara",
+                "fuerza": 2,
+                "resistencia": 1,
+                "destreza": 8,
+                "inteligencia": 7,
+                "agilidad": 2,
+                "suerte": 9,
+                "carisma": 2,
+                "sigilo": 2,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 253.9252892862534,
+        "posy": 917.0640998115862,
+        "radio": 30,
+        "direccion": 324.19151833165444,
+        "color": "blue",
+        "velocidad": 1,
+        "edad": 69,
+        "ciudad": "jaen",
+        "colorpelo": "canoso",
+        "profesion": "arquitectura",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "monje",
+                "naturaleza": "aventurera",
+                "fuerza": 4,
+                "resistencia": 1,
+                "destreza": 9,
+                "inteligencia": 7,
+                "agilidad": 6,
+                "suerte": 5,
+                "carisma": 2,
+                "sigilo": 9,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 705.845113331302,
+        "posy": 717.705963995523,
+        "radio": 30,
+        "direccion": 74.15121338396288,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 58,
+        "ciudad": "almeria",
+        "colorpelo": "canoso",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "monje",
+                "naturaleza": "alegre",
+                "fuerza": 3,
+                "resistencia": 6,
+                "destreza": 4,
+                "inteligencia": 3,
+                "agilidad": 2,
+                "suerte": 4,
+                "carisma": 3,
+                "sigilo": 1,
+                "constitucion": "Muy fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 985.2950059191351,
+        "posy": 713.6092986353183,
+        "radio": 30,
+        "direccion": 128.12024396775874,
+        "color": "green",
+        "velocidad": 3,
+        "edad": 22,
+        "ciudad": "barcelona",
+        "colorpelo": "rubio",
+        "profesion": "policia",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "timida",
+                "fuerza": 8,
+                "resistencia": 8,
                 "destreza": 10,
                 "inteligencia": 3,
-                "agilidad": 4,
-                "suerte": 2,
+                "agilidad": 3,
+                "suerte": 9,
                 "carisma": 9,
-                "sigilo": 5,
+                "sigilo": 8,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 260.484234759899,
+        "posy": 280.8282913416383,
+        "radio": 30,
+        "direccion": 41.95224786364027,
+        "color": "pink",
+        "velocidad": 4,
+        "edad": 71,
+        "ciudad": "granada",
+        "colorpelo": "rubio",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "solemne",
+                "fuerza": 8,
+                "resistencia": 4,
+                "destreza": 2,
+                "inteligencia": 8,
+                "agilidad": 5,
+                "suerte": 7,
+                "carisma": 1,
+                "sigilo": 1,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 594.6825360230607,
+        "posy": 546.0921255937077,
+        "radio": 30,
+        "direccion": 160.41733864248533,
+        "color": "red",
+        "velocidad": 5,
+        "edad": 25,
+        "ciudad": "madrid",
+        "colorpelo": "sin pelo",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "ladron",
+                "naturaleza": "picara",
+                "fuerza": 4,
+                "resistencia": 4,
+                "destreza": 7,
+                "inteligencia": 8,
+                "agilidad": 4,
+                "suerte": 4,
+                "carisma": 1,
+                "sigilo": 4,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 430.855414541869,
+        "posy": 603.1966543664823,
+        "radio": 30,
+        "direccion": 61,
+        "color": "pink",
+        "velocidad": 1,
+        "edad": 7,
+        "ciudad": "almeria",
+        "colorpelo": "canoso",
+        "profesion": "enfermeria",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "seria",
+                "fuerza": 6,
+                "resistencia": 10,
+                "destreza": 5,
+                "inteligencia": 9,
+                "agilidad": 5,
+                "suerte": 10,
+                "carisma": 9,
+                "sigilo": 4,
+                "constitucion": "Fuerte"
+            }
+        ]
+    },
+    {
+        "posx": 27.77952176240424,
+        "posy": 100.10129690537822,
+        "radio": 30,
+        "direccion": 48,
+        "color": "yellow",
+        "velocidad": 1,
+        "edad": 42,
+        "ciudad": "valencia",
+        "colorpelo": "sin pelo",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "aventurera",
+                "fuerza": 2,
+                "resistencia": 7,
+                "destreza": 4,
+                "inteligencia": 4,
+                "agilidad": 4,
+                "suerte": 10,
+                "carisma": 6,
+                "sigilo": 1,
+                "constitucion": "Delgada"
+            }
+        ]
+    },
+    {
+        "posx": 547.2667357800023,
+        "posy": 36.06529968780711,
+        "radio": 30,
+        "direccion": 182.526538513674,
+        "color": "pink",
+        "velocidad": 1,
+        "edad": 90,
+        "ciudad": "jaen",
+        "colorpelo": "canoso",
+        "profesion": "informatica",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "monje",
+                "naturaleza": "timida",
+                "fuerza": 3,
+                "resistencia": 9,
+                "destreza": 6,
+                "inteligencia": 8,
+                "agilidad": 8,
+                "suerte": 1,
+                "carisma": 1,
+                "sigilo": 1,
                 "constitucion": "Muy delgada"
+            }
+        ]
+    },
+    {
+        "posx": 742.8951477920525,
+        "posy": 392.21942514258797,
+        "radio": 30,
+        "direccion": 317.74496631649953,
+        "color": "orange",
+        "velocidad": 3,
+        "edad": 75,
+        "ciudad": "granada",
+        "colorpelo": "moreno",
+        "profesion": "medicina",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "arquero",
+                "naturaleza": "aventurera",
+                "fuerza": 4,
+                "resistencia": 9,
+                "destreza": 10,
+                "inteligencia": 5,
+                "agilidad": 5,
+                "suerte": 1,
+                "carisma": 3,
+                "sigilo": 2,
+                "constitucion": "Normal"
+            }
+        ]
+    },
+    {
+        "posx": 100.66970965921695,
+        "posy": 155.86948527842412,
+        "radio": 30,
+        "direccion": 43.571743951878176,
+        "color": "blue",
+        "velocidad": 2,
+        "edad": 56,
+        "ciudad": "santander",
+        "colorpelo": "moreno",
+        "profesion": "policia",
+        "energia": 58.10000000000196,
+        "descanso": 58.10000000000196,
+        "atributos": [
+            {
+                "clase": "campesino",
+                "naturaleza": "alegre",
+                "fuerza": 10,
+                "resistencia": 3,
+                "destreza": 3,
+                "inteligencia": 3,
+                "agilidad": 3,
+                "suerte": 6,
+                "carisma": 4,
+                "sigilo": 7,
+                "constitucion": "Delgada"
             }
         ]
     }
