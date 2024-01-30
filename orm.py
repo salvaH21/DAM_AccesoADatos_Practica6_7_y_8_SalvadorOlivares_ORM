@@ -303,7 +303,7 @@ boton.pack()
 #En la colección introduzco instancias de personas en el caso de que no existan
 print("Personas encontradas: " + str(len(personas)))
 if not personas:
-    numeropersonas = 50
+    numeropersonas = 60
     for i in range(0,numeropersonas):
         personas.append(Persona())
     
